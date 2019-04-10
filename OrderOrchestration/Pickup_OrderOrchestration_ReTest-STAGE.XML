@@ -34080,7 +34080,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>13.25</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -34088,15 +34088,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>15.29</con:value>
+              <con:value>9.10</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>26777</con:value>
+              <con:value>770</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>7</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -34156,7 +34156,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJiNXVTOFJpa3d6TWY5SzhBIiwidGFnIjoiSmkxN2ZoVkpyMEI4M25MUER3OU4wUSIsInppcCI6IkRFRiJ9.Ar28uB8OA5XH9Y6U9h-OYne5cSYflzocGWfOEpu71NuKZeFABpBeWOEmWl-ta7mU6fNqvNXC1EqXe2NYcicxvQ.EfAnZ0FzIWUcAphUW70zNA.kjG3SisfMg9ZztPs5b8CHvY88ra0N8dd_W8qtmHui80WQxAJagQAze4NtIHgl4wJKmNWDeYBf7u5c4ju6WfM_peTy0zXfVYfKTSLdTOvSn0iohS_8Ph-0wErR2buThMsuf8WBRsv4rlh2dhf5yhACm5kVkWThiBxmWEvhRVop_3oY_2SAUtuADwWBwsX9B7fdRWWINolbHpZKI_73gyNCyFQ5LRTp1fz3YGPP7ki3RJINupSdRJr-3Dg_jLZYB1pLBHPPzYJVXZMvu4_v418eqHvT4idLbTjkULv1s4P2c2CchCUgNria25q_3eniLe3A4X2IBzVDMyNP-ARqJPN_5YTjp3eS4MnCFA4ZQipbY4mB2GQ8gQbMNB3ycSPk3Fagt5pbjCu2kl5o9v_ZEo6q5nhQwtUDLcIYBzYg2o514JyoN8XvxwIMLx_ILWCNYjh.hMlAf7p3VIB5i9jK5jCIBNakxe8bftT1wOvDnkLGELY</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJ4QW01bUotYlVPR19yZkR2IiwidGFnIjoiQjFwMi1oTnFmLXU0ekJTOTE0bnptQSIsInppcCI6IkRFRiJ9.0RJWxM8szFhTgD-VsMtqYANiQ7zMJT1Nn4CNzTc1_1_lNGHyXL0-ydsefIqO4bCLmJ7-9rZHu6tzULpcYHrCYQ.7E_N_7iBEgHOfZn3K3OlkQ.Dy4SLeGgj06vB9EhNQyyt7B-q2ZRfvnMwMhnjc-Wl9nuPlhxjNtCNI5y67UHZSM08o37hnn3zYCQs7tpFxOnHPweAaO1wtzfPKA8lfF32Em4VnJh8Ex01oB5WXFwQfcD6DM8eQzSgfBsQqTRsBeo9SekqkYL2j5RYSaP04s0E8BYb7jrKenQoo1MIIvzuJSUWbYLhuJpBQ8NlujO6qTJug4S_txD1aMxSeUoIOnhHL8phLJ9rBtqOZjs48wROiCMDOKRgQSes2p9ZT7aFoMYJEdATIW5cubBw10F89xuyzYumx6bJZCtREEUtYGCY4kImrAF4b2OHdXKToRkSR5DFYCZy8v6m59fEkAisvnjDiHT4srDa2GItElnTYy49bDmZUK1r7UuB2zxRt7XlBG7iQt36guC6qw8Kacbh0bRbk6-5Hof7XeHWyiHpqYXt3RY6irmVxmuiPCwFopv6B9xJQ.R7WCdGv8zADsu-szUqujtJ5Od2FL894Rli8_YuSrz58</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -34266,11 +34266,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>3e6b956d-e155-4f74-a869-15aaa54b2403</con:value>
+              <con:value>546e74a9-e7c3-427b-8479-26fe6730d2e4</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>e49a514b-0d9d-4ee7-b6c5-9ed6b71c2b59</con:value>
+              <con:value>c0f52240-1c89-4d02-ae12-cb6d135ebbb8</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -34964,7 +34964,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -34972,15 +34972,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>15.82</con:value>
+              <con:value>8.08</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22157</con:value>
+              <con:value>771</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -35040,7 +35040,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiI4YUJCblFISUhVVmJ6c0Z4IiwidGFnIjoiQlpmLUxNVjQyekVLNWRja0RIWlZxUSIsInppcCI6IkRFRiJ9.J9UCjwyoDAAukxfcH2_NMnQIROT6GvzDAtX3_RRbQzy85-_YTFrg_jULVB3wNDufJbBMmIWF6C1uh-73VvDP1g.PStrfs4d-xxRRWeyHSbgmA.gRTDQK86eV0LcJuwQHtuFkFRqYKVD3hEX0t7gfyIEWsveNu3st_i041quTu4S2Ix650bl2NXPQUJ_UrgCIs3I4AfKBaIDJcRWKL7cU6goS9N5-WrZntx_JTbNYY-MEuP8agLBaNb0u8Mpw8O06yRzUmTbeY8SfmQTiVWwsB7r8QxeOSrzoSyTuy1EkGfOQg_VFn24fLlBMMByf4kc82TFCDh72W9wUeOQjuW9lD0tjFmy1lhglX1LGOUqsU0-mwmQUjWFNt4HySFNQt07PwjtrMxQ2KO7v58syugBF4CyXRLpjBNlqE7ED0DT-ywBz5WKt9Ylyi3noYHeeg-9UEmDi-Fku1gYULbc-xBVI6OuUQ-pIwnHQiLa2g6VOPpyxeF_v1kzWtEbtG7xTV1O81O_Bi2mfxD_QyVh_YfTX6lmibfxGe2TFwuMnmCREb1caJOQDqdV_mG_PAWUiHD-YipHg.0HTsCa8YlQj6l5tZV4fxpjXdCRfk57SEmZljV5179Lk</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJlangwblpyazdoOWJtS0d4IiwidGFnIjoidmFDZmgyZXNkRDEwZXh2VVNyMXN5QSIsInppcCI6IkRFRiJ9.vtuUKpAHMGD1lV5Wa7o1TjoEDACmEn4vfp8w69zTWhNUR9r-P9UincpmxVC7XJWQXM98uOgSIJZfjhtqMncebA.INMaQztEpdwexHrNWuR7UA.A4ESL_i8_jXNBmli4PNRNs5x7Nogk5rLAezWxGJYiGV4J-1rc14hYpLZ3FcHxrnVaNBtmaaJ0Ck061JqMAIOdwR9g63Hbe9gJSexFbUZQHIzOvQ8Lz4ZOxF_lLmC14auzHTqISlMISshSr8_VcdmPIYqzGfysELdq2SkCuKUPrQza9zpKVRws6m6_ahMOqarWajb9NWOFwHyv5XR9z7E431ZfH1Bac-MrQPj0168DiiRD4PlAW3DbAcRN_emkIlq0aH4omPmms3NYLa89aAqxjM1okeYtwikKjUALgGZm38Z7T9J4h3DguU0Zu-PvR7lrgHED0z34MnuObAwL94BprWn58WgS_we478IZs0yfyWvZhQ-L0DLeZtnmdiBycOwRv6vqQ6ddKg5BOhFk3uPNxR5sD2j8U9RnxE3QEAwoS2R4IKRzZGqUy9799-PWGE0.mi4uDIpwwoQGIMH27-a1u-sjm20PP01MTv0oWGt3CYM</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -35150,11 +35150,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>1dc222c6-550e-4b84-b2c2-cddca38813da</con:value>
+              <con:value>839e5b40-2a0c-4313-a633-7cac23d1fdba</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>b1002079-c6d0-4316-b5d4-6a379cc8b9fd</con:value>
+              <con:value>35d1047d-0427-4aeb-8b55-cb7ec670320f</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -36106,7 +36106,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>10765</con:value>
+              <con:value>10774</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -36637,7 +36637,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -36645,15 +36645,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>15.82</con:value>
+              <con:value>8.08</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22159</con:value>
+              <con:value>773</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -36713,7 +36713,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJnaDc3THA3Y0RxN2lCeEZmIiwidGFnIjoibVpYMndleDFXNldfbThBSGVjT1JUQSIsInppcCI6IkRFRiJ9.Fn2A53J0quYGDd4cE3UX9upt-H7CAVImzutZnxhSIPkT_zWk0wD6Hv9b3sq5scwPF9oao7qLJix00fsy4NcmmA.tuX9VLDgU5jpmVw_6Zd6ag.hO7LNLiirHBQXtJazk0lKjdtAScds5lKMjaIo2e6D8ETU7Ex_uZr0bAQw_kDs1cA_vAnPkuaWdkUo5NOTJui3G_Hh94IsqjjX1AB-hb0l--f-vLVxoeDeGTkqLEJ7oqdtHINHpAEQQ0ifi6XEvMQJgvNDzFqR4KhC2LUiUKaU0Bol-KA1FM7YznwQHfRXdQhpFpIiw68jEYbPR6v6qkziOpWPXmzG-blS9xsauZ6HJ51rlUv5zV7hNYYo9MQEX4avmcjkKf2EK2TAbDo_8dmm0wAyupx2RxxE9K7KAVEURTG1VYKiVFuEY2KofVjkpmlUx3N4_ups5dkW7DifaQsVSRNYK7oV8E9misEqFq4cqpLiSLtQv4zeO0_1IMVBcKvPP2uMOaKA6LIC9iLfSVbjvS-LoaEZgYALbKT8i5xWi6ixe6p7FbQu4dYDhQX-torLvHBN3IHJ0G9JT3n3PmuVA.dQpkLwPhlXeGNB30JCVFczaB3PBi-4dx1bEII8ZWPH4</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiIzckVGX2p3V0pMOEJfOFptIiwidGFnIjoiaUN5V0lyTTk3NWxkeUhEOGh0elpIQSIsInppcCI6IkRFRiJ9.DpxBTCsLVTQ8xnv8GuTvCWj7fI8CoG1xdp7QJNJFLSlcFAou6WUsSvzq-1_Oc-f098d3cJC8GQzZkFAMlJvwkQ.EIlOobIMrU5TxVn57C9QHQ.qsyowWFk8bdL8wLbnRBoqW5cEqK2MfmcjCtRE6Cpd4sdCk1Ox2tpfdlmtUY1iB0PA7ts4pqENHLIZgPrU-oneelx-4VpxrcIhF19nZWkm3gAlnmQSrOaCsq5hyxXIkbYIrZOgbu_EymnPyibIgpGUUCZztZ6J7wTu74xZlfjVYv2UZJOmV4mDo4sT9wQeP-SuvXPMpx7xRe6FF8LM1h-sHVUuaxLU_rGaxAvFEp9OR5qcR9fAoodkRWu5f11LJmxd8TWsTZlg1mbEVoVHC3OuFZ1VrUKyfRMp-VkedZDKOCVdJ2VT3UysSYqjM5UT5g9ZnG2ANnAj9MCyr0iaD7HHMjLzvzKfSZDvZbEFfOR_yXusD2YJTUa3BdeiXgN0fxBnmIr2ZGwxbombaicpDKsX1rHlYM4hELD3wUwN2OGZ3XJZCt2RyUF0LDVhSa-BXPJ_wwYIjP4t37cWNc3kUBp4A.YGyXcMsD3mNViE14jtyMXHqBOWsYAwEnfs44SpME5qU</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -36823,11 +36823,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>a1b1dabd-b388-43b4-b4ff-4524fae85db7</con:value>
+              <con:value>8f3343c3-3743-4bec-aa33-d5e5cae47ca2</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>a9047c43-c5df-4515-b40c-eb95aa4e8ddd</con:value>
+              <con:value>150c4aa5-1ec9-4362-8d84-43f7f3a2c9c9</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -37449,7 +37449,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -37457,15 +37457,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>15.82</con:value>
+              <con:value>8.08</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22160</con:value>
+              <con:value>774</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -37525,7 +37525,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJ2eDNTbGZJT2xSd3FtUDAyIiwidGFnIjoiUHdTTVBCaVE4UXN0SXRQVHhFdGQ0ZyIsInppcCI6IkRFRiJ9.29Osqq9SUHVJkcBmENa3-B9lDUfrIg_phU8bP9Scyx4d-CBPqW7AnutpQjhbjMyUhhHO6WrgJzWT3lz27d0jkA.EHeWMMmk9woYrUWj3s0i5w.p0qtk-W2aOqtVkCD7zIu67h3TDzi4AFmjxWguGrz1lpgrCI6CKT7M5vpE-AoNKGfXpsrh6lDZMKTVhtbBjrqcVLzmbHJ96n6WVObwxJYRzqHryLJiLqOfAxO9hKbnfPnUFN3kSI-5DZs_dL7KSvq7665DmquIBOgjont8kZ0P0vxZ3iN2H9nK5QV14fBAT8ZRrEaaXy129znOcQfHQoLMNIenPypPbnr56rrXF3WmRgywWJC5jA0krVLMKAAHPq1FUkd4m8y7REc9BuQ-x12R5jFW2yKSFhBMRHHCMu154NQzcx2h7NF2lxHOreGhBpM5-zGkDLwEmhp7I53Znc2h_x0Q1W4RGSZH0DgYyJedNPtLJluPexWonOLjBVlzXTd5ubXnbuBcsGKjoV07Tx_9lnFKyc2InG8CpUBRmvBDRag1Qjp3SAmMWGKfCXAVD5vwVnGBa4E2Yer3OXNMMnhug.3H7ZpeYqCu1FD2GlG5C6rfrBiX-ia3LAJmquIUne1qU</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJUcnBsOTBpYmxGTEdwR2I4IiwidGFnIjoibmo3OUpwY0NTVTEybHVtQ0FoVEtzUSIsInppcCI6IkRFRiJ9.t67cLr4OEopHlwvr_BYzuhhZKOzEgG2oz0nuYjHo8dYhhoth9NFe6_Zd-LIPQ2Mfi67wtbT4TVxDyUEb_TRvxw.wH-g2EVIQDAv9IL9c2NjSQ.JGTidQ3fltcfikdA3qSF2JlhNdUDVEjIoMz50iXZ8Z9QGMDoawodGUKpbwiLZd4cOsdwJvuFAbYTU6fHCdbsh9LzewB7xKH6ZQVEeMkxXgQX_mHb2WCZBrqasecL53tlk4g3GV8V7JzB6EF16HsLeUA3BhCf7GDr05EDl9MNM8Nw_fHa6RuaWvKBHPx-nh0Stv73NOrCD_Z6yzakhwIhFRtoOKMMQagUdEpMDAOZQId3Q9KU12b_nlAn25BKJ_VbVvvgACxkifI8AIgSbiCMcTlQ_M5HdgZIO8hgkxVp280a4AxMM2LjYlyWqz8cXT91OJMwcWKOty0OnycNwnHvgeiOn0-b_jZHUdxonWZ3fmi5scXSZw6-W2zOW0DDpoI6rbVk4rs5LyNO_i6SDaFnFvwrC1RrDMrl52Uq4uQVTc1Y2H88AazkujE8S6fMT0Xg4FbivpTdsgj5wN-qQfoXeA.dFUmAUSb1UDSR-kdJEPanEm7ZDFiYQnlkr3EqOMcCa4</con:value>
             </con:property>
             <con:property>
               <con:name>sessionkeyexp</con:name>
@@ -37639,11 +37639,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>0221b338-0dc4-45dc-a45d-056f1f30a86f</con:value>
+              <con:value>760110a7-b9dd-442e-be45-29c649183a08</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>2176d22f-78ee-4fdf-a4f3-2aed60a9fb21</con:value>
+              <con:value>14356ed5-cbfc-4717-ad44-c28af53a381a</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -38272,7 +38272,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -38280,15 +38280,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>15.82</con:value>
+              <con:value>8.08</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22161</con:value>
+              <con:value>775</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -38348,7 +38348,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJTNDM4RmpXa2IzM3lqVWFrIiwidGFnIjoidHppU25GeUxTU21sR1o0dG9aN2ZQUSIsInppcCI6IkRFRiJ9.x2oxyZ0IO2q9pYGMJ1ODDkZh2LT1QBJcjqf3nPVuF_Z4wP3qckDb0WbGD_dU2AIBQy2PxxAFXvzCsKVc9I68ug.PyMt_yUhBZRAoIfVtwR12A.x24d7KMnpPTh_QluZVfF9-BH-zE5LYenIgEU3zA95upoWV6gDmna4DSiUD7ek9RbdjMu65Lb9UdIdKQtfREEW8_yTKYtVweTFd4c59LT_6YpL4rcT2hia61TngTmEPLhIzSW3oscYByC3yI5K--RKumwRxNXlgeXJK48PyIKG_5dNSFwo6QsWxn3Bw-6_0t88yQXwS93sp39S7Q7H7L4lPKTj_P7MO6-HegWsgk99V8F2ct1T2IFW9ARio3nMTz0nVRKsFofuIpMdz3RFaq5aa6G45UU2WhUHzeISeFLETPRAWxuQZMvPqjiRPJEIbmAGb-H5G8RGLHu_6LnsGAJdD5Wixhw_cB9Q1vPoN5v5etI7JKB-5yf730pS_1hCANlMXnzmXjIeOmp0njCBVQgnMN7eGIyrTOTX8Pim2pFsq5kAC-smsg91N3e5SkMcr2pMtGNAYm7jVJ5sDfUd46Hiw.XsmHe2nfnDaQruLAM4i73DvJTdLpNfiRhAgB983_jHA</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJpN25BRG4xTHNfazRoR0lIIiwidGFnIjoiRVhNb0FtaHZoWDJrZmFXck1iRTJHdyIsInppcCI6IkRFRiJ9.B1znxUPF0BO0cN-B4da3wk2gX7nLJhyaUsbun9AO7Ff_31IaeQaJm6uEJi8xn-bNNUvuLKmxdzutg21IQdsskg.F93IlL6rBIYwoSy7uGM01Q.4Jtv-bHkJQIwkGxzWk3AG6Ro8b36MBtblwiHjfwkgkT7Dq0D3AHkuY4hiLLg7UFY6KFgDCDv7AypyemdxJio0ciyyFpB1Z1VBm4FymGggz3iOraNKO0TUYdtNfH4bkG7NirEV1qdNWD4d9vY7aIgtTTWttw05q4tSFs7XB4jzNnNcWCYd1Qd9ewsK4d8Li5RsyJdxb5r9olRbr2IDKSeMBMYtr1P-llogX7Y_EUejFe11gafKfIgbRGt_gBbNmLTzsvLyhH6epL_QqkaX9EG13ecAe7iw87zLy-TGWDjpruJCwMtLeQN8dnRHEDmSKJsxHBCQZhUTx13B7o0hrWqGlQflsDY5NbAoozCP4wcKX-znpYNMrX9pY-qhcsoruHs1GjBqfIWU29xbsUA6_434n4al6ZopmaiUX3smjJXjj1TKYeBRaefnsgx8ufZHFDaOsv7uqw1pltZsfViPTU-ZQ.JaFQMBSUdixi71WdquwMvHIBY9Mzc7kN0-Ij_0qPqTY</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -38458,11 +38458,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>d825728e-6a6b-49ac-90f8-1e9467b236c0</con:value>
+              <con:value>b2044faa-b12f-490e-bca1-b3ed21cb87c4</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>490e9924-d948-4b7d-b8a6-97526536f870</con:value>
+              <con:value>91153766-9717-43f9-bd70-0df7bc181bbe</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -39095,7 +39095,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -39103,15 +39103,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>16.84</con:value>
+              <con:value>9.10</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22162</con:value>
+              <con:value>776</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -39171,7 +39171,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJmWjlnbHRGcEo3YUx5SkVEIiwidGFnIjoiM2RFUHo4alQwc3lzSTNNVjV0VGF6USIsInppcCI6IkRFRiJ9.Py0bp7OvdPuiBeBMG5xIyin9DrXv2i-HkOUqD4m_Pu3HneBWUJEkceox5wyuEQeLCkr7fazlX33ojyHZYcQG-w.dFey62D7HLDQI8sVV3KTxQ.ZZ9v7eb1IbtTOgogUTklgjmviCQx_6-cc2GOdqSp8ACNshAllQNwwdu3wcYpRqkUu9u_nKTkbGfhOinHKunO6UixtIqAqirxif9br2GFgcnUppH1IbgUbNAli-AL7C42ITIf1q9GhjkAFPlMQiZ_y0nv2tdOBhWSOFPN3Gr4g10qgmBm3-luJlJDDJ1vV4cYscuNjFWTpVA4gdxMb458gaGAlK0T5AhaGECx2kNdkpJ7_nVbx1yceMzCPMwcox36ur-ICtnH0XWlO-jl1NFk6pxedLnHWMeiYojzNuxkTtJ9TeA_e33_QLILZEVy0pPZwoNhZqgPjPRgpI65XyvpteL4vuqA1QcGHCsZKIzVblaAovtz0etgVvvUor6FTE8nejcJKO9jm835btPfFghX-wTtfZs3p2NV4UDzbkA7Zf1qlkNA3pEURjBBNs7pl2dLWwqzy2gWK8ApVpc_ga5YHA.AQDJsiVyBJ9dAHY0U96tiNETN15VqnU5tVfqvb3G8So</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJEeUdTN3Y4UmViUFV0aVZRIiwidGFnIjoiX1FWbzhzcXh0R1dtX04tX0ZMU2podyIsInppcCI6IkRFRiJ9.KQagA5EdT1jWAFGsI32zvQeiL7zYNjbnk1vOzIL4fTRgW6WonXCGIo3756KGpkWa2NvPTHjUGrdnunygYRDaAA.puw-xdsm2nYlzE7v-c_nng.qdAPM3Lt61nykj46XmLcFeU9YPYS_T5_t7ki7Mp00pEoVwC5-eslQmIKdGqwn05OT2FTbBFiAb4DIIwA-AngV-2UAvItq7uqKDa0v5zR4PuWTrh-cuDU2ZDXYuFjNbP_lie7esWLHb3Oo4ZdJxUo5VsTlWFf_PjWmOSVwEs0hzWd8NIb07A_wAAWLypt6K2jKnc46RnS9CI9TxEXpb9SjPtgaU3ZRAW6p1KCD7_gVhn5m4GxmcogVZBaMKzYEyrAri0PMXie54FQfYq31NO_doSZ2KzL_sNxnO-SLPUxC22yp2dLcRVVdxHj9U2vE7naZmsscSR1SJ3jXyrNj8Yh8T6SB86rTpDTLYNAWkLuTV46s-bB97cXmBoLzTlcmP33uXk6fNLoG-oWLaoqaX-CkdBg7m8h9BoZtODbJZy3ZmmmXBZlPiiK-w_D2DimxIqtmaE6cwN2bYBl65DxbqVPWw.JLsNTg_dUDRMg49Ub3D9URYyEidBx7ni-BkQQomJ-s8</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -39281,11 +39281,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>c7e69cdb-0857-45ed-bba9-dce9333161fb</con:value>
+              <con:value>b61eec0a-948f-4587-a90a-bd1442d2b15d</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>59f034fa-b86c-4484-b1ac-e62c5e1a3acd</con:value>
+              <con:value>1ebec60e-fa43-4d85-b034-af4f4e7383ad</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -40012,7 +40012,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -40020,15 +40020,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>15.82</con:value>
+              <con:value>8.08</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22163</con:value>
+              <con:value>777</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -40088,7 +40088,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJDd3pTZVhTR0JnX1FBUEVkIiwidGFnIjoiMkQ1TzBLa18xa0NkYkdTOWJCTVU3USIsInppcCI6IkRFRiJ9.JIC9xHiJsktoUh4K7Qn_E25Q9R03DQexeHzUE94lBBpC2_SPZkDKKHPKCmyBr1zODAXwLaXQFCMDCFQjU3_jww.-T8tw5rWmIxpAjWef8X8CQ.DQzjV_1RIwagBIt9fgNA90GEULoYeWOyKGXFb7QSp5z9TwZlLXXxdf2t-lDSckDNgN-6bDGnvpLVS3dNJqiAAg32_7j6GwkiVkqODPYL-T4jtqUwPDVOHGb4mvunDnjxMKegzQRr4-A2kMT455ujF8TuTGbgiZtwJoS87SvUMoWtJFF6zxyhCdBq5CwQV3SVHZSK98Qu_kAl9UVXkqenLN8dwFTuOyJ5lKEaqCQqaLJTP8KdYEig9hg_Q1eGEq1PuV_rnu0SC1vkPmqFhWtih7oLE_Gap6Cr4-THt6sZzQHeqzckmk9NB-McXlCnfNHCbRgVdCv_-SRwHCPVwRyMTkYxnRFSeh4fxmZ6-_IPwaFMvJcOlbHyoOQPa67iiEoIBJsG0yGquUgmG3MSmWWaFXsCuHVgBrMHjwICLrvnurMOFu5xQgHQCrGKRHoQFauUvs3AbylBMC04BZtnvtzKdg.zDdKdMFYJPvAxWWAgHnM5LxPf9rdBRcPYt5U9McZGdc</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJHa0N1SHMtbUVRa2pzQi1lIiwidGFnIjoidUwxNmJCU3EteFVrTTl3M0V5Z3lWUSIsInppcCI6IkRFRiJ9.8EVjxayNSEXpil4f9MMnHrX3YJohcOgNdT7XY33iLSDeoFKWnzUrYdLHEK-V9PISOOJ24FmLP6og9A5VzfXVlA.UrNkOC85wLKvIFjBld1MyA.ZTjmUeOHtEGlKLCqe4vYa2Yxk9D8WvIaYtRZd8FP5R4aPgasb0sJ67VQYgobAeJyVB5Sbs1a63-H7ES3DIuob-JkvmgxKK4h8BIbobss15eE6YpFF4cNqjit00Bm3jqax8alCBj2b3wCj_p5Nwe5a0iJp9NovBOHJEGObBOik4nJXJvukqUrdOTaFPsRu5B9j5jN6WPN1BdjuTHVn6BJDeR1lHNBzOYXIZatISNmcTbDlenOhl0ZhOryVMzhfBgYUkiuxWHqL8XkSR8a1lxaoCzVcqiH6sNIwB8NMQRYfe5fBws8Lx0DxX9zx5zOSrTG5Yu1nnKvOnHd7nwZI2rxPxGcMaZU1uASUowzbFzAnMfi6d_U29yb9SvBOCXMxv4FVLT3QuO4bMP1ZyLwAYfwZkNB9uTTqsAGiFN6bl1VvEdBhquyh2EGz6t0R2bGtLPZ.UlNicf8zuA2qOkr5YMeh0zmCEznk_AeuU_5SGPH6eLQ</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -40198,11 +40198,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>e2dff25b-abff-4460-9287-d8eb2b4b0068</con:value>
+              <con:value>97dc0651-bf1b-4e09-825c-707277ebe786</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>0e6d9e53-3b82-4c15-b16e-482385288781</con:value>
+              <con:value>8bfb56d9-a712-4ee3-8e46-c7d4d10a3288</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -40304,41 +40304,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="cac29bae-634f-4efc-a9e8-b9d0a8d5c019">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="SendEmail" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="984af075-d49d-46a7-9bf3-8410547fbed2" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="e61af77efc1e4477bf8b83ade31901b5"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="b412815427554a96ADBc8Cd2af6C368f"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="05f0313d-c097-4955-b015-1f0194d57715" name="Valid HTTP Status Codes">
-              <con:settings/><con:configuration>
-                <codes>400</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:properties/>
       <con:reportParameters/>
       <con:breakPoints>
@@ -40815,7 +40781,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -40823,15 +40789,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>15.82</con:value>
+              <con:value>8.08</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22164</con:value>
+              <con:value>778</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -40891,7 +40857,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiIxM2Y5bmJZX3lmLXdrdUt2IiwidGFnIjoienF2bjVSSGN4WDNGdl8zS0xFTGI5ZyIsInppcCI6IkRFRiJ9.zct6EJUtbN7UDFvfIjEgZ49BGHVg_4T9BcvD8HtSHEc9YvcwJ3I_Y6OH5J42fIwsCnOjfd3jQAGqOFi-gr0FwA.n3SOSU9oIa0GBuVI_B2AZA.w-ha2Qf_AGPejbgmYZAEzz6bkDhTqbaxl1srjia_XFb6ScHpIBrlb7q7BVRMMMahUKq2fKwBOi2xutocgD44PswvXG5MzfHVjkAAMHxXigIWAtHnMKaVIjb2QpnFRsYHYH91uXnRiSN8zrupMH8JNymaDEMndER4OPU9KbAPJCR50F7E9XePjivm9DrLPUoqqDNMCCS8r5zHBv746iN_HXR09-Jis4XdgwpZF8dfZClg9kQNdnhucjvOfst-JDHiR9wUhVGQgihMlSQ2Aa9tpVxZiTyM4rB5430oeIZIqXBdI7omK1NPQI__yLIWoKaL_7ACEmYmXnhNtKUbylIRF6HGEFqpmvcAZL1GFXlKxmIQYVvBFodqTEeTzRNKOnK1LIyREKdVi_MaTOyaFU1-WgmSjle6LpnTqEVQQVDz78NoSvIn3ylT62YbFiiKEvPjdxgpj67R0UzJorm1bp4y6w.vO96HUhRVpFeEGnNKExn37o95UGvD-NOvjqwP-fuQ1c</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJ6N2c3eXFxVHQyYXBCMHpDIiwidGFnIjoiajhvRWJoNHR3Nzc2TFE4RF9UTHhZdyIsInppcCI6IkRFRiJ9.yAx0SkAUsBZDf9WEE37sG6s3drSUBs4CYz9dHi0a2opEF3Tfh3uY82EKtyB003YehoA7--3nLHGk6LDcqWD_1A.AE1DkKUvaDTvrpPog6IrqQ.cAGEpdaJTggheb3ORXE6nQPAJBaNXz0Mxr9dRI6a_65TcznQtGNW_htwDfu20VmT-ehv3QvxjYTg-Ep8ddgjEFKHIwzNMi6j6RhYVYqOR-mIfZIYSUKlrrZ2JZc7hqtoiFg8ZlpjZ5BKke_KkrPJLqb6Vf1uLl7RC3B7ytFCp7CJTRIKm6Nrex2-Fci-PQ05KCE1SUGjxdM6ARi0jqy5Q2kZ8AkJY_QOiUWkfMIdvzgQ6WGrqLb4mG-EQ6Qle2_kzv49yKr5Ph3p41GeV3ds-TRUPCKQAX6AEX_g2gZn0DF7GPkB1TyLQFJ0NGctHK5QCGwA9U6XaqmI22Tl150ICOtfDSuDEsQFl0De6bShHyv1fqggp9t52I7Sd0fk_IVbQf7DpOuYspEb7kyOK4ZLtVd9UmJJCHV_RvNqCfMT2eNruaarPVi_Pf7Zoa54O6Y7fzy5pABknb4yufaC9OTNUg.6jQE00dKyNIxGI9doA_Ot3Be-bsTBwl9iqVA0RYWkrQ</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -41001,11 +40967,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>05668ace-9a4a-4a0c-a674-d5d4a18b2269</con:value>
+              <con:value>8e244220-2ce8-4f55-84c2-1993cfcac590</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>e7e4a5ce-5a6e-45ea-af24-850074850bcf</con:value>
+              <con:value>d8224602-af66-46c6-bbec-d82aca478325</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -41179,48 +41145,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="7cca7562-1931-4ceb-8238-39d23e50c0a1">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="SendEmail" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="984af075-d49d-46a7-9bf3-8410547fbed2" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="e61af77efc1e4477bf8b83ade31901b5"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="b412815427554a96ADBc8Cd2af6C368f"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="0a2da7fc-9f65-4833-b23b-e6a33cf633a3" name="Valid HTTP Status Codes">
-              <con:settings/><con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="Simple Contains" id="9f4c34db-6b8a-43de-bfc0-e242a63ec8b3" name="Message Validation">
-              <con:configuration>
-                <token>Email notification has been sent successfully</token>
-                <ignoreCase>false</ignoreCase>
-                <useRegEx>false</useRegEx>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="5d8ee2ee-915f-4a2c-a78a-42fd47f9fbc3">
         <con:settings/>
         <con:config service="OrderStatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -41529,154 +41454,14 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_PickupPutOrderToAdditionalItems" id="826e81d9-1bb1-4c9a-b251-fb994b6efc32">
-        <con:settings/>
-        <con:config service="PickUpPUTOrder" resourcePath="/AOO/v2/PickupOrders/{siteId}" methodName="PutOrder" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_PickupPutOrderToAdditionalItems" id="ca255592-bd7a-4e7d-b76c-bd6134f4011f" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-  &lt;con:entry key="origin" value="*"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request>{
-   "SiteId": ${Properties#siteid},
-   "OrderId":${Step_PickupPutOrder#Response#$['OrderId']},
-   "MenuId": 0,
-   "PromiseDateTime": "${Properties#ptime}",
-   "LineItems": [   {
-      "ItemLineNumber": 1,
-      "SalesItemId": 2888,
-	 "MenuItemId": 1674,
-      "RecipientName": "Test QA",
-      "Quantity": 2,
-      "NextModifierSequenceNumber": 1,
-      "ItemOrderingMode": 1,
-      "UnitPriceOverride": 1,
-      "EnablePriceOverride": true,
-      "Modifiers": []
-   },
-   {
-			"_comment": "Kids Item",
-			"ItemLineNumber": 2,
-			"SalesItemId": 3403,
-			"MenuItemId": 1066,
-			"Name": "Mac &amp; chesse",
-			"SpecialInstructions": "",
-			"Quantity": 1,
-			"NextModifierSequenceNumber": 0,
-			"Modifiers": [{
-				 "ItemOptionGroupId": 11069,
-				"SalesItemOptionId": 8220,
-				"Quantity": 1,
-				"Name": "French fries",
-				"UnitPrice": 0.0,				
-				"Modifiers": []
-			     },
-			     {
-				"ItemOptionGroupId": 9754,
-				"SalesItemOptionId": 7884,
-				"Quantity": 1,
-				"Name": "Kid Milk",
-				"UnitPrice": 0.000,
-				"Modifiers": []
-			}
-			]
-		}
-   ],
-   "OrderMode": 1,
-   "UpdateTimeDisabled": false,
-   "PaymentMode": 0,
-   "OrderSource": 0,
-   "Destination": 0,
-   "ShouldManualRelease": true,
-   "TaxJurisdictionId": 1,
-   "Customer":    {
-      "CustomerId": "${Properties#customerid}",
-      "EMail": "${Properties#email}",
-      "FirstName": "Test",
-      "LastName": "QA",
-      "Addresses": [      {
-         "AddressId": 1,
-         "AddressType": 1,
-         "IsDefault": true,
-         "AddressLine1": "5500 Wayazata Blv",
-         "AddressLine2": "Apt 1600",
-         "City": "Minneapolis",
-         "State": "MN",
-         "Postal": "55416"
-      }]
-   },
-   "CustomerAddressForOrder": {},
-   "DeliveryFeeAmount": 0.0
-}</con:request>
-            <con:originalUri>https://bww-pickuporder-api-chtest.cloudhub.io/EXP/AOO/v1/PickupOrders/5</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="2b945a8d-2f25-4e0b-a39c-1a13026c212f" name="HTTPStatusCodesCheck">
-              <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="Simple Contains" id="6135011e-1f4e-481e-a5ab-08d885c0419b" name="OrderIdCheck">
-              <con:configuration>
-                <token>OrderId</token>
-                <ignoreCase>true</ignoreCase>
-                <useRegEx>false</useRegEx>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="2668a96d-d620-4ef6-b4a9-12e21d170fc6" name="HasFailedItemsCheck">
-              <con:configuration>
-                <path>$['HasFailedItems']</path>
-                <content>false</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="81476d26-be86-43cb-9fc2-9e8513fe6ffc" name="SiteIdCheck">
-              <con:configuration>
-                <path>$['Order']['SiteId']</path>
-                <content>${Properties#siteid}</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="715b2cf9-7c1b-4279-b5c7-1b4e2721f54d" name="PromiseTimeCheck">
-              <con:configuration>
-                <path>$['Order']['PromiseDateTime']</path>
-                <content>${Properties#ptime}</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-              <con:entry key="verbose" value="false"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>verbose</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="transfer" name="PutOrderPropertyTransfer" id="9e41eeaf-6648-4043-9e9c-52f12e63bdb0">
         <con:settings/>
         <con:config xsi:type="con:PropertyTransfersStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
             <con:name>amount</con:name>
             <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrderToAdditionalItems</con:sourceStep>
+            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
             <con:sourcePath>$['Order']['TotalAmount']</con:sourcePath>
             <con:targetType>amount</con:targetType>
             <con:targetStep>AmountProperties</con:targetStep>
@@ -41697,7 +41482,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
             <con:name>orderid</con:name>
             <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrderToAdditionalItems</con:sourceStep>
+            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
             <con:sourcePath>$['Order']['OrderId']</con:sourcePath>
             <con:targetType>orderid</con:targetType>
             <con:targetStep>AmountProperties</con:targetStep>
@@ -41707,7 +41492,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
             <con:name>siteid</con:name>
             <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrderToAdditionalItems</con:sourceStep>
+            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
             <con:sourcePath>$['Order']['SiteId']</con:sourcePath>
             <con:targetType>siteid</con:targetType>
             <con:targetStep>AmountProperties</con:targetStep>
@@ -41740,7 +41525,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>8.12</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -41748,15 +41533,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>15.82</con:value>
+              <con:value>9.14</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22165</con:value>
+              <con:value>27015</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>7</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -41816,7 +41601,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJ6UUZ5X09Udnc3dTl4Mm1uIiwidGFnIjoiMGlEZWxGbFhoU2xkbkJWamdkVjMzZyIsInppcCI6IkRFRiJ9.lPN6nCnw2W-UxMJomYxkianEVekGVPeu4ANy3PUm6axieaU8PsP-fOSVdJrkn6BtVKEg43kobSbfUKE0yK1usg.9ods9ORQv3vr8iA6K46FkA.dZVu8r9cSnJ0m_WMBq4gmphR5-OiWNNUMXED2ipnXeRs5WQac1k6ZPEMJ8uCCfTDj_S9UfasUMdtcdXK8b6FquAzWnlDs5k4PHEBb9FprNqjwH4mrZbcxLWzb1hKGugUsRTv-_u43gLsCVWwcF5m8ewGqqhvmyKMT9iYK_S8C7teOkibARGcQtOqu0hIE_Mzoqtmgncr0VMqs5a2SGT-HWUJxueDZGG8o8oZBC_vO7QbnpZuQLL4kiSXPuRxVZDZd57GXaV-L5hiN7GCLHjBb6rTOfQY_4orHFj3MBjDRuQaLKDEgj8e8MJPdJABk2z2HIqpLzze6X_oO0NpJGR445RqLLkHfuHK49nTKUFkxXjYwEfa0CV7JDGxxwOq4l29GP62HY5z9kXW6Jl4h8YMdzf2VYYcIe870hslydnfA0e0fDMq_ufj89zPBzIgHY7UmCjvyt3eGCxsAtv9qjnNiQ.oiZlAYObT9PLqPIu9S3JsfyTtrKrA9B7PBQq3AWQcg0</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJmdEJ6Z0x3SjJDUTV4elRqIiwidGFnIjoiaUw4MndoT2pQOUp1bFQ4NWFpd0pkZyIsInppcCI6IkRFRiJ9.tdnu5WR4TKXYItgxe_U3lq2CRncEiTJcwc4jYgnVHnGrKQPCfIyNk8Y6fTqCjbACkZemGgn_pEW3UUQV9i689g.sVAXqqASM733mP5pmHsMBg.T9LR8N8lcc4pcLoJJb9dld3oijdpXuLd0vJyYiooC-HFiAoZER4VdXqNvfChxByY5E0pnw-nwKSk-_jRSshQY4kZJa9kC4WqnTn5i0mhtId56vSXQipelj2RnBLtyKjDxiirwfphk1ETE7yyKghs8xjTKIDg4R7FaxIWdc14B3rVEoy4pZlyrN2V1TQRd_rNrvijRaleoA8D9AFq0COuCoqv7bFA2l6SZgRjAb0_yL2i2IMvZ8OZ_1R6BpsG1m7OD-RCTHdpq3UY8Ywf00dkuA7VRnf9uuFIyKgYVI6MwK3sjki5O9iO_pZvO5TSkMtyVhYeQonVVivnjBVbhZmXgA4L-Em4pJBNEDHc6IAIQZqiYlwOiIKKf98tDxKw5G8m52dX3B9fihw_0RMvhzsq53h8oZvUjWC2Xao7rxPVvxbVqWfMMP3pdYBqVYjKeoTx.h9YlYZzDfX0AMzh24Q7MEuwFk6gFexPhfVEHsz8lMp4</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -41926,11 +41711,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>6cd62c52-32a2-4469-975b-4314845cb7bd</con:value>
+              <con:value>bd82cbf3-c3d5-46c4-a375-9dd854aa43a2</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>4751035b-8d3c-4f29-982f-73a162c250f8</con:value>
+              <con:value>5860b844-fb5a-474c-a96f-1b9d092567f1</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -41980,46 +41765,12 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
             <con:originalUri>https://bww-pickuporder-api-chtest.cloudhub.io/EXP/AOO/v1/PickupOrders/5/orderId/68bd02ae-a5fb-4e18-96b0-b2ae85c3802c</con:originalUri>
             <con:assertion type="Valid HTTP Status Codes" id="8fdec129-f810-44a7-9762-9db6fa859041" name="HTTPStatusCodesCheck">
               <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
+              <con:configuration><codes>400</codes></con:configuration>
             </con:assertion>
-            <con:assertion type="JsonPath Match" id="ce6ead68-1685-493d-a93a-ac033588e4a4" name="ResultCodeValueCheck">
-              <con:configuration>
-                <path>$['OrderStatus']['ResultCode']</path>
-                <content>0</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="31abaa0a-d8c9-495f-8179-5ecf16cba0e4" name="SiteIdCheck">
-              <con:configuration>
-                <path>$['Order']['SiteId']</path>
-                <content>${AmountProperties#siteid}</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="3d1a61a0-1e1f-4afd-85b6-529d6583dbcf" name="OrderIdCheckNMatchFromPutorder">
-              <con:configuration>
-                <path>$['Order']['OrderId']</path>
-                <content>${AmountProperties#orderid}</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="f77f19e4-9b04-4ad6-8af8-c32b937f76b6" name="OrderAmountCheckMatch">
-              <con:configuration>
-                <path>$['Order']['TotalAmount']</path>
-                <content>${AmountProperties#amount}</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
+            
+            
+            
+            
             <con:assertion type="JsonPath Match" id="72cbfcd1-1c49-4c68-9528-debead35d386" name="OrderStatus_FAILED_CheckMatch">
               <con:configuration>
                 <path>$['OrderStatus']['Status']</path>
@@ -42029,15 +41780,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
                 <ignoreComments>false</ignoreComments>
               </con:configuration>
             </con:assertion>
-            <con:assertion type="JsonPath Match" id="a6917a0b-42c6-4929-bc35-b24faf7d774e" name="RestaurantTipAmountMatch">
-              <con:configuration>
-                <path>$['Order']['TipAmount']</path>
-                <content>${AmountProperties#resttip}</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
+            
             <con:credentials>
               <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
               <con:authType>No Authorization</con:authType>
@@ -42059,41 +41802,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="11b7af44-d531-43b4-86a2-37363784b41c">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="SendEmail" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="984af075-d49d-46a7-9bf3-8410547fbed2" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="e61af77efc1e4477bf8b83ade31901b5"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="b412815427554a96ADBc8Cd2af6C368f"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="2eb3d07f-3960-42a4-934c-d5931894d8f0" name="Valid HTTP Status Codes">
-              <con:settings/><con:configuration>
-                <codes>400</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:properties/>
       <con:reportParameters/>
       <con:breakPoints>
@@ -42570,7 +42279,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>13.25</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -42578,15 +42287,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>56.68</con:value>
+              <con:value>55.13</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22166</con:value>
+              <con:value>27016</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>7</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -42646,7 +42355,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiI5aVU1bFR3Q1hrWDJsaHJtIiwidGFnIjoiRGctX3NoTU5vNWlGRk1Oald3eWVrUSIsInppcCI6IkRFRiJ9.j1rHlX9REMQLOYH7je0wOuqQywDFJbzOQzWHfdcqOsBiWKrBaw8i8g9zdSk1S1hgppJ48xx5zOI2QYZ3vRgWrw.3lRzRmGLoqK6-A7QlQ8HGA.olLPdl7BKgAR39M9b3ZgLKiImK8QThPPWl2baRWnAqdzeKgTgMuh0-vXqMzLOlhOCK2_-yPc5nKK6ueCkeM0SdtMoOoBIWGHO-ixy2HVyOCTk0rFfOl0xAXz6nu5RBEBvD1b6PilAoZPYxw0MIsBmYCWIZcWmTT_qKxYSltMz-q2WPuCAKM5wrWjdIPF2nOcXUnIkJ-_llYmy-XxNItn4b4egdzhG2riYyzr1hh-GD2zaYKn04bBibhvQiCGxqYDoSRnPCru9JB8ezLf5R0R8P2SBWcm1LY0aq5ZgiYnw6buhzHHw9BE3414r_z2ZVPGOQgJ5Hi5gv2XNeZ97FXEOyDvG1FMsPxRY-QJO3SDAztSjTc9wjWtlsmnDxgPGyfAal7a7gDUikGC0-RVOAMgkXUXWePICYW6wEkYWZIgtXq9JTvaxZxMgERoVAcy_usH.-HCs_Sazs2HGm5smpakkh01BX3_MXHmaPs_dSo-Vf8I</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJ6emFoMk5nQ0NFRGxwM1RoIiwidGFnIjoiN0JjU1hKdWkybG13eFJ6VXVFRjMxdyIsInppcCI6IkRFRiJ9.e2a14aRHuF5j4ZZeBxelqpYqyZrUxTzKMsxXN8nfBAsUwmjFy4-N2QDJcLeLyarq5Bz7R-ZKvC_RxTMGef7j5g.C6pczgyaV0DHYiS6dQISgw.j_SljoWCkR2RW2YyxL7hSrljFn0H20NlKNlqfPpOxiS_BmF3vPoVlEGv5T5P9tfNtTApmn0_QmM2NQ7Us6VyxZ1Wg41Jr_rty1hE16AQHsIsE6Q6SeY6Q4qoF2exDv0nU6IOozioFSI2mIGvVroLx1VCAD9TOQrlMm3VbJHwAp600vzc3DbtLuNUdVDiq5sNQ6-NAI4xxboyncmfvctpSpWA9n0Qi7scNnpPFEyasnmNIxuRJEtYbn_uBpW6-vOI6swlj7Ubyx7Q8BRm7Rko2aPBDikP1dr7c8RyjYo8vE3wHBJkHlhOZ3pBHS5aMphWAWglIpd4YcSxcr2jYlUQ7fy4PLYbuQHGARR5L0zgJnt_FZjFj3qzxewmgxSoOo7pdNEUjLwGklHHR9GiT7dbYU72keUIdY1TYVVlHL9Un6hRwSAV1t2sMpeOhmQf0Ecp.VwCqFjpXg5n5q0opGfkG88XF_YQfR89N66z4VnGR6Uk</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -42756,11 +42465,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>71055cfb-6aa3-490a-b0da-39b9f12324f8</con:value>
+              <con:value>24b619ea-0d2e-493e-8502-92fae7da7f25</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>92c34b04-fc61-49eb-a551-06558d31e18f</con:value>
+              <con:value>50402b5e-aa10-44ed-9d5e-51418c979d72</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -43394,7 +43103,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -43402,15 +43111,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>56.68</con:value>
+              <con:value>48.94</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22167</con:value>
+              <con:value>781</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -43470,7 +43179,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJHMjVRR1dLdHF4QjV0UU1PIiwidGFnIjoialZjWW5HcHgxMHIxRFlpdThQMnFOUSIsInppcCI6IkRFRiJ9.KXcOujWVbqfEDHj89v3lteaQUrlaG-713G0vybLuTAH5ajj4pgcc5SfE-mgZL9mO5kMoLr6UB4E_CB59muYKFg.ixPjNCo7tnwQg4g9NR0kFw.b_mSVUp7COzKuQUm8n4dAfzwt7OQLFBCg4vx5_v3yE_H9vzy4qAcB5m-55EuBEnvu4TkUdOPU7EA2p1lpgVxIhYDtCKAksWFIYz3SOrrZmkoTXXEgqojZE5O-BwxuYhlI2Dl3JzGlTPVwW9rtf6fSjazrN8CtjrjeHrwPxF-q2WpGuZEENMshNn7RVbVrYau_QWWZ5XmMdQLwSAnj-Z1FAX1ki2-eZhtWa1RTdJiEoLEQg3dFhoktAu8Sl5SYul4g0vvEawloPNHkyLPzM6fbscSJ-Xb9F9YgajJaiBqZvCw-8BleCLmS4Yx4E5qXuH26o3hOwEEep1bLi5n6T0y87Ry0wxhiQsUuXRTgnzs2F9PIpROQNRC9sCFY7ui63XK2fUebMZ4wdz35nXZz6px7VeMj_yEieJ4AhBUzC1istNjyd0SPuKp5XQnsIbqUOEWbPbhINxYzMUKt2ss8GfPzw.2X0v8aiLke4Hphgpwkv5kyujqEF_ZO1LTu5rrGV-gMY</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJlYmU0dlFsTVhTeVFPTGtQIiwidGFnIjoiYmJMMUYzdVlva3ZVclRqeGl2S1hUdyIsInppcCI6IkRFRiJ9.MfuwaW1mK3AGTLfDv8YyMd0Xb9ja6Zv_QY4pc3Vvj0UIwzs9cPT12SBtisJ-kMacY03t3FNnY7C_B8CPPZZqEg.0cGu4IyyihWJsma6PcVvrA.pMW7VbTPLSp1Scve1jKfknivUfkHeIF37EN_u0xlq3ywTFPY1hde-Y0eBof6dl6s5bRf6eo53ii1tljsazFLQTDJ3glGJzg0WCjTwqtHu7xW9HIlRoK9Kapu8D1RfFDgi_8EvebYpxOaM0HDKfwov08D9i8xzQHR0KzTeKgE5j8BU5H-O8I6WvwXkPC_Sx0vUanHGNAuOrUJLS5d27_9-rruvGrqJ0r6RH9vqnTLCcdHc2HymUsLT4U5Kr1EFySZLbk76KJpCdFaQqJSzT_dy6NEgoWYLfGinWCMQZdHB2GhFB0jsuC2zldC22jdSDYIFkIkWFkoZ6kiw0T3K_SMm5sL0LRIiHfwHyJCqMchx8esa3ZIZUajV5XkL9hIXto6bCOM_ewsEz17jxmT9stnDIadLkP_fI6zJMcAsLMlD-vlhaSpUrPa1FTtq3tXFwqPPuwYAa5MKzFi1p_mcgKtUA.YmLixbtCGb2zthrg5GoPKivOttSYw0wTZwY9tHZ6tTA</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -43580,11 +43289,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>61d57354-c4d6-4566-8c85-de56afbba917</con:value>
+              <con:value>ff401123-b748-49fd-8bf5-82fd371f2514</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>c60d9fe8-9557-45f6-9148-f9fb2f8a3150</con:value>
+              <con:value>1e79399d-f7d1-4caf-bad3-6e11027602a9</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -44083,7 +43792,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -44091,15 +43800,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>10.47</con:value>
+              <con:value>3.89</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22168</con:value>
+              <con:value>782</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -44159,7 +43868,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJhRWMtaHRjRlg3Y01EeEc0IiwidGFnIjoiNXdpXzBGVmZyUVZmT1FIZy03QjN3USIsInppcCI6IkRFRiJ9.7f83bk59yQG3fXl9WHPipCVPg8yzHQBTfru0ZXYDb6QlM0DhBhOISyBop4qwPHQkTx29qOKowHqlhBtABgAyKg.ApNnX_S8ScZIHB5MXQyMug.wNvAwGysghd9inLOL7y5hoo0zfXdvxrAw9DzOrf6zQZ56Yxzrm1zBq4nT0J_1TirJnpCSI9x7oCTgJDBiqeXRAozWTYXLUy4r1YOewX7eV3aUxB-wkirPnffgxYilE-UrlywaRj5XfiYPi2mvAWPoUgQPYzbJaGVmUQlbxcGQZF6reEYB3jijmo0PIMSkdiJ1lp4-FxpKa77TE3bjRyJySIW-MDc5poz6yC-CeZJi1i9YUr2v4D9CgdifFUaU25nE8vNPI7fN8KPwqOJO8NF4OyIL0kf2pdpO04lsS8BJxd0yoZvtD1Dzu-xfE3G03kLA7qD_Yren49X3Ttc6NJ3Oool7a-jyJvJnp4dd_iKR8RezcutktDibpcwdICt90iF_WwuNThiHozQIx2EMU0FDDtl7qVtMpxKC0MRIpCMBl67qt6oj9CkSBK1HTUXMQskXyzd_DHk3LP79lyDxKtpIg.S27Ro4UOohQo0j4r2H9SxbPlpqTRdv6e_mHK9Vm03LM</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiItZGFvRjFhRnVEenIwWHZzIiwidGFnIjoiNzBVYkhkUVY1eWF4QUxxWndxQUtUUSIsInppcCI6IkRFRiJ9.owuRxVZ2iAhEo_eCY8d0dKqhv2XSg-HC14au2JMqY8ri49Xs7-pqHaDVhAc2nRI4HOin0qx5swhpfQgW5fYabA.XP_roTku4SGt3x4m2L53Pg.xwy2IAeGFi1BdJ6w7HEHAm7fDtjKf_doLrOPeOCBqRdLmRRvAhqQsBqRlZ8ELX92vl39pSoCMeW0IKtIOiWzgK7riT3ZuYQXL_voOgmDexCZNBRDAGfVTQV2O9BZs7WVH34aKHqk6ocPmAM90KWRBVAIDaRI2x_iavqNxk-60NCtORD6zC6EHCsO1qAo45hOsvDMz6JNd2g4asfieGa8lPEp5woXS3xxnTfG1T8_qzmzmbBktwtphkq390UCum9413CZlkHiGE_vWICmoFFz3j_R0D1ZMlMJMKZs8_A-K1YDr60TzT93ILB_TtinueeCmvGoS6MlmRFFJSpOw9nx5-clycG1ux8ZgG6miKEqidh_GNF-1XnQKUQfsmWtU1rFkbbkrWzv2i5cUdZYE5Vpa1YVWEiveIoy2bmxJNJE03F32sTt_937eLKa-7eFKzXNX0e96w-n6nZduW3MiHUvMg.D2ZbAonL9NL-OpwszGYHfeI1lJ7yRKjBnmv_VBQZ7AU</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -44269,11 +43978,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>59d43a65-21a9-4a5f-963b-6f24c7007df6</con:value>
+              <con:value>a8e21a64-8b8d-4616-b793-cd6f46726d3e</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>262c4c8a-a781-462b-80fe-a43c7b838514</con:value>
+              <con:value>9db6c1a9-c871-4123-8a6c-960231eca6d9</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -44815,7 +44524,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>16.3</con:value>
+              <con:value>14.87</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -44823,15 +44532,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>18.05</con:value>
+              <con:value>16.62</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22169</con:value>
+              <con:value>783</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -44891,7 +44600,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJVZEhyaU5tdTNEOVd0dTBsIiwidGFnIjoiR2xnNWllLTFpdi1jZXdCemFBSjZCQSIsInppcCI6IkRFRiJ9.aV7seJOpCgQkxKDUunt5OyPUlePe-PIfdbnkw-X7zpA8cPsoemQc4Bg3YH8W3BiKMVIlFY0DnS89CCxoVJDFmg.vNE7VltZKjNyaILrQmsAoA.qDyhZ217ISF-K1d_vaywpnGHVZqg1e2aZuWS3fYKi2vfyAylSYb_BlKXScDNmY0vgS5rhkXLw7DsdcKLgDyUAw2Tj6ulxYOoRgVYW8ZjGLkwaISbmK87bRp55xGrxM4lizYt5DxknVE_su5lv0BwCbiRTMTs1PQ8uu1Y3ZOxcydl7tY-sfFaChufTyPHsYR4J5hDh1CmZbVQMUsrJ_IlzRDp7dF2QGBRHvG8McEwzt-MaUjqLv2LHViolIJAApOEj7kYl-ic4h_qhzEihOr4tV0YvA4hlcw50EkBbJBDzTAa9QqqZytbDZuEiZJDWhXqFBE0Fs52i2o-CUDw9QU_pLkRdcjDdhNJn0ryCEV8HRkMOv1g8OM54KAiNNzhILqy8AJ-MMQG384n-cfYpV0hV0NQqxyNsNW7B7jbnpamWPgCuoM3aqdaPy6_ac1kaG4Kz2owaJdbo24hctMxGqgAbg.sUcwDysJak6zJYxk0prpj8qbh0_ZT7hRQmNYzZXTY2o</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJOaHpzX1lsdWxqZjc3eEdLIiwidGFnIjoiWG9IREJSYlZxaE9aXzNqTWhReFZQUSIsInppcCI6IkRFRiJ9.P2CM-eDrtSAohjo5jbePPD5jtR93NDA1NlXSF85aMumiMX-8iM5UI8uv1vS-eLj4X7jqeW7G8dJRgDAn5exUHg.MX5UGq_qYvcwiiZL2D_G1A.Q-IxRCE4x61_NmeUj8biNdShHK6s1iSERavSJmQb1Bds2QZj2_VxyK3yrjqc9fRNaPwuUc9vqaga3zkI42CqhHaJhKxQ3dvP2eCQeNzXOF1U9dWjdOVvdHp7oWY2ymAecjTXG2ZajQoLXBt2pGKPuSLOJVjyqoHrR2SJViEvQWjRNUyYE0UgldKxnBXgr96luLFUh4wr5Ojl3pPU2dEQFsUYVtZsWTLR6Qx9HipA9g4i9_U2sT7aM82rIOnQdHucG4w4pqlNJAAsI8JUJxpn3ax9ZtFO8gvIzLCUOPZwOpQ0clNNVKjBTBjol-Qga5tjJ8KnOAv4X8tHhpJkepsKH9XbHBf0EGNQgei5ziha6xF9H8XRokCExqbf9QU_4gGx62wxFig6mMOkiaN4edvjLnj3UhCsZpUcDOZDHQTQR3vWnoYs6vsKXjis3NH5BikIhLMEWU5E6kz4e-Yjl0kD_w.hhC69Z_rm5X-FHirRiG97CWf_LsFclMbVs2H5RcItvI</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -45001,11 +44710,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>4decf4bc-18a6-414b-b113-a1d38cd8353a</con:value>
+              <con:value>d8fdd033-8e14-4b72-bc31-85b3acbec6ad</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>5455295e-8ab7-4f4c-b0fd-7694f51100a3</con:value>
+              <con:value>de155e92-ce66-4efb-9c86-c412f9dd3822</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -45458,7 +45167,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>6.65</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -45466,15 +45175,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>8.40</con:value>
+              <con:value>3.89</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22170</con:value>
+              <con:value>784</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -45534,7 +45243,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiI1TFlkenJIdjJsRkdvN1h1IiwidGFnIjoiNHBXOEUxWGhOZllfWF9FdDJFQzBEZyIsInppcCI6IkRFRiJ9.3jk6Xpj8ttQFwF5Ykz8lAW7pqm2HjwDGgSy7ldahiQPGqcE3etFwFz11YlcfEMAoBWqw0Bl015_YoFQqWxvWgA.wgij2dceVHZtH8NB-LTcQQ.5BvBbBJVBb0YYKlXuNibN8Ane-1zJAExKV_ztF1Mv4NQM8HfQref4FjjDG0lagnr2UT_jsKEeJNX6XbrFim9sADc4v64n2GEDcbfin7L0lUK4uW5fcJEqlVmr9gfPagySXKCL9X3TxLOt-ENMotUYEfmWuoVcvRfL23VtXtVsHWWvpDBAIuZj3fNgYFo3Wke53edBUocCf5duDw49fhESJ1QRCDc6TDNJn_p55cr7jB7WP3yCmMLfxokrRl7_hncxHXbqkGhvMLwYIjew6dELWldu6t5KwV5LHrDMQqjublHhsdVfHX0McZi0yEx7qUpuAJUtsdU5DK1jLHWCXVNzwk-JH87JmRLubiyzccwS0vHV8GY1XiKVumFCCACMZWsmE3QuAbwB2Zf8o867qimwC4fZhxKzXMNLERftA4Ib3a7O4F4CqKE_k6z7LJvDi3XWRyGwg7zS-2aECoOFYHMwA.aGJixoO_34R55ESRRShndpX7uoEcjJj0M1FP1ACbPdg</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJVOE1nZ3NVS09qTkNoY2NtIiwidGFnIjoiWWltMzJIMmVoOVFLRWtHOGpFc285ZyIsInppcCI6IkRFRiJ9.RGRnk9a3lYjLLnLohPp_FX8noDuhaVY8iRhpdTiQEfVMF4Nqx1RHFWR9ZQTjCUp13CJGJ3LLU-SRRfzW25cdXg.t0SmYP04yr_kbmeNlfhGlQ.vvyUIOwzBxCVwQ6FhIP-g4IgqUfdODtEJNGv22BuzVqKtPQm6ljQP4IXzHucpGc80tE-cV_m_m1JNg0ql6_TfheW9P6_P9Mc6f0SJNs_2z50lhNwDgptx42UsyUtuAG-faWYwtKsm5uQrxQjyx88VKI8AwWVfi6GiLIxTQIhWMb4BDrrgqICw4EApAT3CaVWnVXQm27735BBwfHHitr32U22aeCpGpwAsCd6_KcviYe3lLc8dqA33NpVmclEU5tItMgS53oRn9l1tRiadFSycY2kvRP5rb41mUpG_vt1cyzT4q2ju2X-EP1LRFfcK6Al36GAwoxyxCn1WxUn11HMqFtsFYy02J2O1v9qyQitijbI99tGsIkc_n1FgIUAmrvqgHlQDy_fR8eK3TbV9HiRvj7EjLsThLlecny_Ekez7FOboamFjVpYDGxvUOwgZaFx.4N3qvcJU1Gn8xYU-deeQMqeP_Efy7ou9ccSXC7UFVwg</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -45644,11 +45353,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>df7de262-0c5d-4882-aa9e-b6711992bd3b</con:value>
+              <con:value>bc6de2c7-3e39-4d51-95a8-fde9dba6e58d</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>c9f68325-f868-4cf5-8890-b1448e34af49</con:value>
+              <con:value>1ddb9f96-89d1-4ab3-8bb2-85037d38ad33</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -46110,7 +45819,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>1.94</con:value>
+              <con:value>1.81</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -46118,15 +45827,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>3.69</con:value>
+              <con:value>3.56</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22171</con:value>
+              <con:value>785</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -46186,7 +45895,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJveTJ0eHhfdS1aLUtqUXdLIiwidGFnIjoidmJyOVBPRHo2d0J0b19PYjBxZVVyZyIsInppcCI6IkRFRiJ9.kWHL4jo__JwoexUprZ_XU1fgLVeMoU9h29CpgKJfJ2rJaOEbnMuVUTaIkAhS4A0egIhRMFMSNfQHe-Uy8YQ3Vg.fH8UZ2efbLLhegw9OoUPGQ.itc0OF6ASf5NvlrlLlAhb__Krnt_W4o_dVTb7AB13F17VAgBxzZV3V29vnldo97j_A2hEhZRyu5Ta-SxCnxxoNB2i03eBDojKOIwZjnY16gOaB6dgHyw6p0odtiRoP_izHsRVnXUoAGxlTsVECwum-D-zg-OGWjRxhWsIF5bF9LNUAamy9sQ62YrU1unP_rbh8ZN3eaW8lneq84Vvyt1miJT-LV5ZSqsLXrVMj6BnzIHhvAUVS6b6xIWFR_-oGCywO7AorFQKhCOkLA-w6MwiD8ZF--7gnaBsh1Ej23gzf1740A2IDAuTsijxKOPFTwHRwS_sK81cWQBZnnk6zpvuh1YFDGLKJSxD--uEfwW3rJK1XsMJIy9gl1PT_SdtpqxjSjHopUeuAflwZ5CGw0tgyjr0jqD5AO6Nbf3SShNnP2bfid9rb2_FPwEyo4Etr1hDH5J1wOFEvHv8Pe15SNAqA.t299gUEkTd8MvyyFHFnzLdkqCY1iZpuIyked1Ht3_3s</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJ2MFEwNFBxMWJuTHNSNmw3IiwidGFnIjoiYXVKNHg0WXBGRDgzYnRjY2ZTX3hqdyIsInppcCI6IkRFRiJ9.mPlLAbx7p81sw_Bf8BKFTutK_KnYS-UO11biv8BvL-9nIgtGlFCwDi0TZpcQVnDXPqJ721OA4RUdpVzHn_U-fA.smooVjLy5NVxRjz9d3xTWA.uij-T9KJ0Ngkz131VyOKiGg5bQSyN_AKXtB-Qd4er82NLCGnpOf23mmx18xzpOxxCeyj20E6t8MRbz5VHxO0yc2B4KgSGrV5glhcrMpHNMeIt4ryiz47k4ObQo3vPD-oyBbMHdTZwcXwcUm0EcyOFc0cuNMSc2Z594OV2p6rRyvyIwjW6vbAwoBPfQjlg93tpqySd12GhRfctrR4p9WpQifW4ZSmM6zZo-nHWlezUENTx8x4oJhbrqA9Ft8DFRIhOqkRiwlZ-7s6bu6d03AXDB8vWBDhsA9VdMeWnFhVVvW_ZXU_F2XhJR4vqZe2h0kyBOJnd52FCY8OAAvsAK45kFyEBW6pAvcMP_OFEhIrXUKcUkdrst0wAk7X1wKDb4IzCcHrolBdVeaHR_BtpOTIs31XosAXpsLY_qIHCOmzkyygjU2LkUt-Tv-vWaV6rzoeoj5knZJckCPz_XFnEKbAuw.GA3YyL7Huxjif5rX2KjfIB0TklXaRAOb0QRhZC-TAWM</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -46296,11 +46005,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>5c1e2ba7-52d6-418f-a037-6f5b1dcf41fd</con:value>
+              <con:value>1872d078-4fed-4fb3-9bf2-7669e2fb8745</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>5ecace9e-f869-48f3-b6b1-db24b6f8384a</con:value>
+              <con:value>fc290729-c99e-4457-a9d1-c12355bc1654</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -46845,7 +46554,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>11.03</con:value>
+              <con:value>9.15</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -46853,15 +46562,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>12.78</con:value>
+              <con:value>10.90</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22172</con:value>
+              <con:value>786</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -46921,7 +46630,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJjVFh5UEphRTJiUkxZNjMwIiwidGFnIjoiZUU2cWlFSjd3alF0SmItOWF5dTZtUSIsInppcCI6IkRFRiJ9.OU72jDTZdq8Mhc6ksAyPMa1LlKEYTXsTnciJaRtoml-C85BlZ-bW6PeCZfcOymK8jNjKm3Aex_rI1GuXwOdriA.9gsBWmi7SOQLE1WIlWp19A.ssMDxSKFkWxXnH2rd0YCD5ySIlITQ2_pxKd5uY0MqmKdKigKbA_DW3pj1op5XgKtLjgOISDJjLYkidkZIro25P_q3rsZAJSSHP7KlWDftyQm8CHNCpA7JfXa-RtXf0WrRl_rKdbDhpwNTFNhobqPCLnkUMODafi1-_CjTBIrph0sVl4ZcCy6slIdR4KDDeXSV2DDuJogJvG7O_eSQK_LdC6xWrrFQmBKtCgWVCsfIe4RiDfeRAOwrTXzlg-svlbRdz1OJEl-WXym5DGSSRDywXrWxIhR-m0mIPaCh09dr0xPxb4XaGVCvFIO_URgnsTh5GEYNNTMN77BmS7eoyBI755aqzH4bofvWnHJ7h-7DE-zUrxFVflgcGYcrNUwIqiV1Q9Ekb1uxqwrqAE2gGb37pDiXimYeXSGs7SsY4a2Yx0wE2QH15LRVslcgjPdNrrDBoU_DPecgvTuyJeUn91-fw.lo43r_M7xMKOp6g94sQybBdOEJni1upOVk3Qt93cpVs</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiIzYmtpY254eU0zZEZwamRGIiwidGFnIjoicm0zbERHT29EeEFXWXhISTI3aXBNQSIsInppcCI6IkRFRiJ9.B4yPCK8Sc1zk9khhG66fDdsPOexGq8kXGwMFaoAH2WDbvmCf0qmV1vVMpdoOX6j7d5kakBMAsFg74ABiaPTFvQ.9mX1Hyt7NUDf0V5kasdX4w.UMdx7k_yPY2lLQxJUkFzBGYgEkdirk14L0aGw1vNsGcK-xPJCUN7Fs8drBuYdRHCsM1g0w85ucyGLhPSZBc1fEnq8h6iTERwfk8Ml8eci1fWM3hvBFTINgxi6d-kdU2doplyUE8bsylpMMUacB9XX9uhCi3ESsy_oVo_BLOIJqFgGLcNNoNnHjsFLpr6a9LvNCZyd6ljuEk8ugkhL4s_uYAMzDqPUxF_IkvhVVDqVGV4-zXCX9lnSGQZbC9hGygWS4eLLzTyoMLdicdv5IQ5oBXLGItwuzGZQZM80JobwkWJ364D34px9A0EvDhZES-FklPHvapEBeaDF-W1L5N5t9uns1ciRFqMCBSyfc8zdaohK5OQjr8dGs_m9_fzTHoTNgnoMNbvHMIp_jSriXD-EXTm8bcDI8HMIaHMC013i1ItUoGyeKywFYpTGvSDqZonWvjYOKvjEqKpui4EnpSa4g.jZiHl6E4BMPO2hHltfz0jj-rvSUN0JTcGpYABfDj_zQ</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -47031,11 +46740,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>10164800-6964-4eec-8347-f7fc304b2cb3</con:value>
+              <con:value>64593c73-4dc8-428f-a40c-08944af904e3</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>f07ed342-cebe-43d3-8156-a7e161043cf3</con:value>
+              <con:value>44c15b8b-187a-4356-abc0-167ca2fe5505</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -47561,7 +47270,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>17.34</con:value>
+              <con:value>15.62</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -47569,15 +47278,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>19.09</con:value>
+              <con:value>17.37</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22173</con:value>
+              <con:value>787</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -47637,7 +47346,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJBU1BzTU1ZOGl5SWtFNTAxIiwidGFnIjoic1R5ZHo0OVVGczJPNHEwQzlhQVNOUSIsInppcCI6IkRFRiJ9.r4jU4AoewQGPVVSgF-NlQoqH5RHVcQpa44ArDkJybUkQkUEoSFhqFD7Uy41JjGqNzCsoo-c0WJx_KGzuVPZLmw.Ml6T9rPyU6oSyZ-oKOHWig.1e4GbI-IAfjSnm6HSK8ls1pYJWTtPvZJHO8nRhz0G7J3euwFef_jueewtgygiLEpgG6dZNVkJrSnNR_1Hfjx4luX6cFxapywJ31uj03UwqtQ9ONTHorOjkoszjTvptu8ylwpP6Okt11xlhwIyJ_Ta3S46jdk2QdmbZXs0VoCNXaoYBQX_W3OMVrmQ6TuEYmwGp1fdjErIKT-DAV6x2-gqEhj7zoIWxuS4Gj1HL0TsJJGHTNI--_8_ni5RRmnOPcf7Ed53VmaVl55ooG4kkZ-J9f-3TCae75ZANC6FX5mMrty0mlcdccb71Gpjm801SJkVHmVxzux-iIQfY8NrnmhpCLNyMDNjxoRK5Vajj0Le3sATqMRU9XE5dOmFU08Zp7izXSFKD3-jrBrmOJKa_UL4NaIrRLIt25CqX0lQr9lm4pwxARe5iCX8NeCvuWGnvowi2coPUHbN-YAg-5kj140hw.yHiwUsnga3di9dXELKbpMRP9YgyK6gPeysmFzhgIUfU</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJMRmNUNWpjUzMzWVEzY3ZtIiwidGFnIjoiSnJ2WGR5VWY2SVI5UnFILXRLZUVkZyIsInppcCI6IkRFRiJ9.1JBf9XxtgBAHWqcbA81FsydhID5r67Ws8ynBMv2c7-jmi1M4IlRljiY5jzeQtyMFMlZdVUyVm7ToJHGehZzSoA.kbr7EhwP3qC-fpALq90lyg.yhM0JjUzvkdKqhrNMf3eI_KFvdPyc2sU7TQMQFIN4uxdbm5f8RLS4tE9Jzz5jc4k2c67cNnhx4Ru0FqLHfXpeHtx8mEWsL61HTDMYT1eJY2s5k-R_b18--OXydhc7qPEH7gWyMB8EeObKCCGi6pb4MUz_ot3XJeYRToEzviVGjGWR5FHLa3uFknOW_C0QgOaM4EtOoS0EIFliNxyek7Uod0in8ahaqGIc7sRp5E2rAuP4TbaQNmUHBK_Zi55zEY1kI5e_wp4MmY8x9B4QA2ZW3XoVWMiS1CRL5o-LyESpqS8-3bIDKLUPIL6KCbJtUM60PeWsWsk10TtS7tahVduUze84dKki8yF8rW5OeDt0IZl1mQWSTVwtuZORGPvBRzQy4Vro0o4NnObfbvyxVzXU2pfhelrnk2bJayahj6j4SouaIhF-jMm8ZK9NIyA9IOoorJ72sT3LgVajVq-Vz6PhA.MSJnEwF8o1pVSRzKYf5H-TcQym5jwwfYof54fuCO-GE</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -47747,11 +47456,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>c6788fdd-d1d6-4c2c-8f47-7d2ad5b31361</con:value>
+              <con:value>298221e8-c9ef-4475-8866-32e5ee08f307</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>0e700833-e7e0-48cc-ae13-e21d9a1dec46</con:value>
+              <con:value>fb849002-cee2-48eb-9b82-8505ddb3e243</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -48266,7 +47975,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>12.98</con:value>
+              <con:value>11.77</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -48274,15 +47983,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>14.73</con:value>
+              <con:value>13.52</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22174</con:value>
+              <con:value>788</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -48342,7 +48051,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJUWk42b2MzVXc5T282NTRhIiwidGFnIjoianpTQVVtU0xTQTBnems5UDhGREtQdyIsInppcCI6IkRFRiJ9.YesgnDZave6yRqRm5jOfx79LzR33qKNVyscMhLbn3Vl2CuOSb3UYjqrL5UEfGvBhpcBtrTpnVzrZeihkRJasPA.EdiYro6rnm9CZB84q-GPLA.O8wPKBYw0-ef0Ufk-jlaz7Hmal0OLV_25sGS-M5RWGZsHc2KaB6eaGtjFTbGsDIzTgk31AF8Qob6SXlnU8jbj9OQQGBzFjvCJjhYcF9kM68PI3vnn9MoZ-V37XkcaVxbfZyz5rEthKZoYf0F-uz8KPTTvolp9mAimDKMltVQyOpQVq2DiT2hYEVTj0BYNsDMAZmtcE1y0brZ5A9Rz86tZbfyCFNxX-phTofX6Bb6ntmowjZS9Grp3fLTPTXk950URbMBJc_CrUmZ9nJwnv-WQuLOuiQSXM2JeVo3G8ixtRY5m4QH2cQXh2MBzOFtWK0idRrMNukaKlirY46UXKNVFiLufP2F7RgtGHRx-BMHZ4aiNShhYXVYMqjFcBqwHDo4GiP_CWKQTmDe4OkeWORz4iMg2MCveye9aLhJP3VPzUWHTI9Y1c4gywgJUCAmioap2Avp_KZbLxQy3c9VOVH0zA.sxZsI4JTCgrdSdPSTWws_5BIL5Fs3wK-WL37R-aQoLE</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiI0djZoWG5nRmowYm1FU0hoIiwidGFnIjoiWW12TllLME9FdE9XWmNlYnNjNFRMUSIsInppcCI6IkRFRiJ9.1B7Z4iErKEpeuHiVKxLcPD7SUTGvi96DLqRlO-ICraUjFhPsPWV43F28N_ejbHPahdTDe6eDblGId2L6FXVIPw.oiytyUSceHycDCHHcNW_AQ.Zj24c65pDRSjhReOCbGclyTdMkfbhSB4hQxXQ1BuH8WbW9miHzMGoseFf1zDCs4ULbF5NmgrNzCgCur7AuFU5_aUPzXpIT-CwXN9DM3Nr7PxNonCiH0L2Yqfkysei-toN-3M69Z-h1Tyi0WcANaawQcX-cilhNPR1JsW7iytvDxfTORn3XMqh9y_S01KW2yslxKdOnVpnr4NkS-9JmHITOXSZeT6sLLhNIpt_ozSs5c0EudPCRoPzHo39WhMy9Qtum67uzeucn5LfHPvoVakqQ1PEG197Plf4O6NHPci0PKH8wgn-TzfpLSbzWwhNL0j-w7hwWF3IXbJ6s1qeljgTS1rbHk_iU1LPVXX2YlSowGq9TzDxUdqhV1_uIyVhT-VIVVfmdAmYJND-mvUyDBl1BUItrlTMKvJ8KKbvqOsOZOCf4xkadf7rtt01cdpX-bpT2AJ3iZXgI8rUjSalp-hgg.uVyVChD-BsB2x4Gky9eJ9lrtVlWZ0F4BEyFErdjvQKw</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -48452,11 +48161,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>935607fd-9c96-40d4-82da-d705d4138c6e</con:value>
+              <con:value>8ab7f01e-f273-4ca4-887d-360966c45643</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>711c1bcc-4be8-48eb-8625-cb3ce5b64179</con:value>
+              <con:value>510cef90-47db-4eb4-b378-4414e8b6f521</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -48980,7 +48689,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>6.08</con:value>
+              <con:value>4.92</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -48988,15 +48697,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>7.83</con:value>
+              <con:value>6.67</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22175</con:value>
+              <con:value>789</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -49056,7 +48765,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJ2OThlcEFVNmtnLUZwcG1aIiwidGFnIjoiaHZoc3ZqZm9VaG9hMmt1amVEUWlPZyIsInppcCI6IkRFRiJ9.6LQ9JTEzG7LHQ1hd2qUrq0sKhWmgYtED2VvOlvIYWiRT-x0VKs8kiCbp5-7AUCqllFNgWFNqROEkebnGco4Mdw.cOqUD2tX0Ry8wsGtEii2kQ.iZLA8CVfF4AOuHXmatt3Tw062jpSjSrTkfp6eZiXeGyFc9h9mDB61AwaEW0mfHN8pOncogx1JfgXunhWdvPhDBwAK10YOlNzhaMu1nI9KXEbWXM6IgBta8A416-8JoBddYNman5dfSj0C1_nKtKZ9bpBc_uJ9K5RrQYi_r8Gk9vQs2D-3LQGBPXIdZFSVP_gi1g3ZiT4y_Gq-fUd0cvbLEo4m8YoMyprXfX2RJZIT1yxZGCG9H4r3dHTIK0_2clv14qeRBxrRCE2uhFDA2T_qYFS35Twrlb59khj3cRq9Jb0fK8dPDaXKvnY5SqaeydVgks01I8oDzzCAMQ7amSFvi_bDjVnzcynvad7EH8k4w82GIvrflRWvCf0Njd3M-cbhpnyJE3yp9KxJb_zGl-iPYsEwqLcEPaHHSkvN3hl2ufbQFeHnqw6uw9rBBWYD8j4viZnY0fxLsSmMfKJPNzzCg.cFSosMJ314Tkh-f0wnL7lIqw64H8ub5hcl8ZuuwsvN0</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJBWUVkOEJHRlM0N1NsaDNoIiwidGFnIjoiU0F3cHZ3MUEzMnNQUlpYYllfUjh5QSIsInppcCI6IkRFRiJ9.togYZcR8XfWVxKxi9pbhTIrdmbyPYibHYUT1KvjI5puhARTEIDOLHKiSv0EaT7IS16_zLECD1RLpQVF1FaeIPA.xFj4Meo4db_82sW6aAOFqA.gC2bpbL9idkRtq-J8XWUri127RbV_yZOsyvnjNpWLH7m96diQlBhuGt-Jsk7E8OXffkPEnwK6uvjCA5T8iDiDQ5bcKNNyQrUX8BVl_rxBX6YeJZsP6IYytlgzbg23nqZRDv1plsOhx_HhffVogfgUnF_hqa6zEv63d-5V5OeA_8TaQOkIyPLsSR-nvip_vIoxhr6zOfmIznS0WyARPGxu8hBUNh_m7lc964vs1WRKKqw4SPymbYIeuDLa5u2d-npa4n4SW__Uv5WbZA_jiTylU_YKqw95xKKvXIyewcSD-BN_887-tm-fX_rQK8jh-PUXbdYVIpD7TLmFiLc2vORQyWYEMbOyH4u_nNWbqhFDriBi9F90oUjH4U12xxF_Rf0-ZfKHUGxZq0RdcZAozOLZNoD3gwo01QLBGIyrfaYhFdifrtjjUdR1hgVGwzOJcbM1AHsxpccff8bdNoElRY0Cw.wtXDTLueq0OHpmmvHza2-8OzR7jun5IHBNYp7qEvNbs</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -49166,11 +48875,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>bdb24ab0-c72b-4dd4-943f-b80a53d513e4</con:value>
+              <con:value>c87654b1-07de-42f3-89ce-adcab213558a</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>95ec4998-552b-4e64-96fa-920078037929</con:value>
+              <con:value>4e1f5f97-dce6-4571-8ff2-09ca8e328a28</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -50169,7 +49878,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>34.49</con:value>
+              <con:value>32.13</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -50177,15 +49886,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>36.24</con:value>
+              <con:value>33.88</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22178</con:value>
+              <con:value>792</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -50245,7 +49954,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiI2amlzS2VNUlJGN0dEWjhxIiwidGFnIjoiNHNkMHlZVXFrWnZ5YVRTS3c2MG5udyIsInppcCI6IkRFRiJ9.c6BRC76DwDewvxdMK7OCNRN3fWa51k3c_hbpPpJdycE_I6kovSM0rgdICUMdoTT8QzrXGCvVTL2bn5QSYlA30A.F_2R4-eniniLX6qCi3-yYA.dd6xanXGaZpEIbfqILnyG31tCF5ugL3X2BchggvzzCsE3pVF6wr6uNHjj77bgD9WIF9PuKTgnBg8Hl5ChD_aIuCugCqRAYT-ShjnGrdge1nYZHM5Vsxvg-6RT_Lb_gqzT1zxWX5Y5iceegPbm-k5MtsGdNDWPSFGp8-OHQ7zTOPxRDQHonRwOOqlWzgQffTZ9NsBMyLM7mVze59pSgMFe-Wzr8vssXgPq1tPnaoEd-vT1_CUn1QAQmIG-XKtXrhj-wEWX64G3OP_x5GCmS1AX3iBg5LYHwpdWa2D3LzG5-moQeIqefa6hgUzqMCySIId_6kPl_cYiSj8IwNwlz_nQdSz65sLjr_vjHpel5-2Ontze-qDVY8EvXJCAkCRKcNFri0ecDi1kz2YSJWvPeEW-oJDKH22LYcrEeB8qZByZPUiaqbwS2MYp-Fo1eMwMwXz13B-Ody_h8ze7XFZpZmofg.bIo_RHAfNIN_xyoD3w69sLnHOFBJJQ5ZduxLzZjt548</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJUZGdnaWUwZmdTMXNhb2hLIiwidGFnIjoielgwV1dJb2pXMTV2MWhmRHkzekozUSIsInppcCI6IkRFRiJ9.SOWlIfKuE4WEqtXHjW550xzzrlt7o9xEwOxHzsWl6ZkBYTUji43vEY4aX30gmh8xs5fEAykEh_xCY7NvkbvitA.y90sEu5MAWJrStlB68lmCA.mVtT_2_YFDlbvjSVsbQc6sXriqAzCGW1c_QI8sYN1LuOSIHbfF_jzgfCTBvq2Pn6AiE_w4isCtElwgfi8dxDkeBU5DcrdCwyfmw8mkEg8h8dB3558j7O10EuV6ZfT_A1GssNcRdIUwWVCBrY630hY3OdO98AXOic9N4mwt1TvIs8mbWun16xTbUb5pw5-Xqk8PlZq8SkvWqDjAzpgg-hM8wZ0MPVabmLRD9fg4DRTY3PZQ1Ios7UniZAUd4pL1LeN_NzeuN_b6qmYFquS7Ve1DtCaZ_NhqrjR_QTOaJrliF3-hiS1RwIft94pCIeCQjfBNzphPe7LBM7XEnY4DCzsgL0CvxUCRRRE6BAQUTm4rVczEbniaRbRC_OAzmyC2gx-29SsZv2qSAMAPEghQN2MdrVsXlDfmGBPKi7svPPKOay26gGSsVVMEvnAvE56qej.6tqDvo71mgdFRkGZv_3H_rXASGCVZwa5u2oZufunFco</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -50355,11 +50064,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>9493a9a3-6911-4bd7-a7a3-a2b38bcec892</con:value>
+              <con:value>0e46ac8e-595c-4b67-9851-7c0aeda756b1</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>b0cb8e5b-add6-416f-8d94-e1226ac97910</con:value>
+              <con:value>3a8e8040-cc72-4013-b069-c4eefff82539</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -50883,7 +50592,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>12.41</con:value>
+              <con:value>11.24</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -50891,15 +50600,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>14.16</con:value>
+              <con:value>12.99</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22179</con:value>
+              <con:value>793</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -50959,7 +50668,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJ6MElVS2ZRR3RZUHZNb2dXIiwidGFnIjoiampYcGJWeVNhaUpoQnBDdDRONkdCZyIsInppcCI6IkRFRiJ9.5V1_0PUCZ2eYVN_X9j57WdP4aVDsb_v7KhDw3uglwRNbIGbRfjO2YRumDI4T2N2G9qB5zAuGhEk9aQSZr9qKjA.Q32_UeV8Juh03-uxh7RLmQ.F7KZKUWvPGuDjZQr2djFmjoCwekIgtIC1IaQry4M2Kpip95Pmqw0KjXP3Utsahpl6KsDCQ7DFMF0MyJkjJhMXjoeTgtxwLCj8rJDi_-BLwrLFp11ZyBOCSPOnIPPE8S0eGSyO__xl9-brPEwPIaf2LFaXaU4Iuq2ZDNKZfL1S9mK7jFfWvCsvqv08hC8yMotIgwO8EeQa75vJLCggpyZ5O9y8SGA3E0vRywwRWi_OH2-QiAmqpEl6bB1sgf98LCZHZYRNIVLQhGt5Xm5bQWGLE94rUF1RN2HaLTi0EvZai4DmMz21YHC5cHspArQm0lLGFX-vEJ9r3gerXEWrBbcgOoEUGfKH0x4BR2X_nzpiUE9B3dOERmmP4Oi3tjIDjI7jD6aQ5_CtE7lCXqNcNPO--kM0f6lwfWwGwNVcMuLEkGodRNa9pQ62ExBClxybnasIcCJQU2o4c8Jt_RM0LHLsw.511igYHvdRoxJxowLvZR8whVkHLxbU3-7zqkJ7MY2XY</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJIaWR6WVZ3Mm5HTkh2bk02IiwidGFnIjoiUlozQXNVQXdrVHhncW84NUctUzg4USIsInppcCI6IkRFRiJ9.YTG2_RwdVDRkS-9zp1_2-o0EOv3tjqKxfXnEBsa4wG0cq-fzO1iDHb9Ifxezusn7-f6QcygLSWi9-RXV3C7HfQ.JOjJoHrPDBFi96l6PS5oYA.uqx22Epy-iRaAIj1yyP_A3H9Wgn3Vtry80hMLSLG1FLo8Kv644gAqBxdvw3p8XrGfhV6j3Ta79chm1aQQTHxDfJzVSvmmEpLOm59Vrk218Ktb9iphpXq0IthRJs_th8_K5bVzqR6w8nF6RdIOkD7ID72Xj-v8usMcFoFAsef4FBo-WjXXVa8dW4gCH-So-VNI5U2FGZjmwjWBlzBXdjaCyzG1x149Ym5zEMiUdh0ddvAaoNVBWmGjRxSgHkzM-U4IqQkcc8tG0jihyPK2XpWIZJ3ys75i8P57nR9XmjC7s7kDDsUlGJxaxDc2HZk-CPr1mYJtSzWAqUfIlofuLtwLkx3Ir46Bp6dFLiVYoBNJXQHm1vQa0tg7GrEAWf6js-BFKuFauh385Yl8ZBdYOE-oJe9Ok_9Nc3x8iUGae4zvGGuYIUMNCdl6PDhrEmXo5vnVHYDB2W-zL9GFpkz8d0Hhw.9e_QYx4ggamrleXAAQ6G1EVTObrtqjrgFFzqgIiNspk</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -51069,11 +50778,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>c0ffef70-e435-4391-aa5d-140ac714a1da</con:value>
+              <con:value>1eb8f5db-14ce-4ff3-835d-e799b8c480ac</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>38e0de94-a739-4cfe-bbae-3aa47f503682</con:value>
+              <con:value>4ce6d43f-816b-480d-89ec-c7666c395a52</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -51123,9 +50832,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
             <con:originalUri>https://bww-pickuporder-api-chtest.cloudhub.io/EXP/AOO/v1/PickupOrders/5/orderId/68bd02ae-a5fb-4e18-96b0-b2ae85c3802c</con:originalUri>
             <con:assertion type="Valid HTTP Status Codes" id="8fdec129-f810-44a7-9762-9db6fa859041" name="HTTPStatusCodesCheck">
               <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
+              <con:configuration><codes>200</codes></con:configuration>
             </con:assertion>
             <con:assertion type="JsonPath Match" id="ce6ead68-1685-493d-a93a-ac033588e4a4" name="ResultCodeValueCheck">
               <con:configuration>
@@ -51597,7 +51304,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>3.68</con:value>
+              <con:value>3.43</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -51605,15 +51312,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>5.43</con:value>
+              <con:value>5.18</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22180</con:value>
+              <con:value>794</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -51673,7 +51380,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJvcXhPV3pGSW53YzgtTkxDIiwidGFnIjoiWktDMWh4M0FEbnZpSkV5TEduWXJrdyIsInppcCI6IkRFRiJ9.HB6W_vWxvOq00wT1KUBpaRTdM3AcxcL8EIsJYB0nCFVQYVgIGQdJs7P9OMQLU7821iBJLGmofSbE2IYVC47wAA.B7Nd4zRPosPHLaZZLpkwuA.3hyyZ1igVsajR-Uw3dSONs2PhiOioTzZBJi1AlD2SCQEUBW_7BycWRmfJy6DPPiBxWbDzIF2Z11A9QYdJJ6i28j0Ubt-2e_qNWSWhA7aQy51idtqGsbo18ol9JPbjhVRPioqkG7S7chFN9Y-0vupZpgxZSkgkZ2pikK4KCfcZREpVjslhZZWcDpQ5u6Yc2jdHgn6r9Eh6cI-qiXcFeyjZQ0svXfFeMCnuRrV7UJOHlmCxkfSSXn9jdYu42m4M8x2n0YCMzCzX9C21soqynGcHsgwfLhnol1huYEfNsQsXKoZln68-WqqdtZg4BU-j4YqBGeLkJ-hit_lPURpsH5FKqbBbyfXKfJ9bOrKkZ5MYIrPU19yqlI2V7GtMDHoHMBJsfmSa0nEXFGzRsUGw_BigYehu1KdD2wNgyG17LSlcU-0Ww-MHDdg4gDO5vSRALeZjPxbi7clUn7aZoErX1Ny3Q.PXs78Y07Nnh3LAIUKPBJcxEUhhdt69FQVvV2D5RnOS4</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJsMENTSl95ZjFXQUtZdGV2IiwidGFnIjoiTjRJMWtqVVlZVEVIc3ZaS3o4emlVQSIsInppcCI6IkRFRiJ9.1OO6MtFXv_-dGuy93kW8agZAXrODvcDxw3ZyLWJTNy_i14V26mFAEQZOHtnYHCxpZ0hfcXxBaZpdswCmzHe5yg.f9I_N9rq64y1R8GTewKh8Q.GdmXaEYzVMz5eas3dtUyWNzdNbqcMf_qNnak4mufs3Of5LgBMDrGfIdRmX_ObiHewvKxQp1vGyahekI6rb9aV2WK-kYEiDovVkO2QStBTh4rRkCvEEJHnk0RirL2Jl7HQFdbT9did4KzbqIHSFbNI_G7vIp4WN82aaK8rdVrZQuV3p8UvZXE2p-j-0Kz-zaTHkv_4dWiqk_0cjVq0GdPBEGgHXKkMqW3b2PX6pWBFQXB37P_jMWU2CIHYQCqk9tzR2VVj1SelSo2ZJhpmRI40-SKgCg_qLe-8oKKSPb-3MphcGlyFRX16WD5stEF2xx88n6iGu3dph4HBTlojmKiTvYlWleFQs_v2J3DlCO7j-i6IffHJXzTaE-r0FdTQcnlrqhHyZYP3WTaUc3q1ddV7-59EsKooT_dYYdr1z0kW2pxgblNTmGz-KN3RNstgjhQMOkhnJMnWt09JbYAVijFTA.UV6yIXa-Q8RLCIobI3rD_PBkiORvd9n2YZkgsA1gae8</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -51783,11 +51490,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>7a03f2bb-b019-4151-b039-b5aa166a892f</con:value>
+              <con:value>72fe73b6-2e76-48a6-b552-e2ca07371801</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>668c1c2e-5382-4e3c-9338-41565acddf8b</con:value>
+              <con:value>c055417c-6d78-4217-89b4-6f2831fda435</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -52296,7 +52003,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -52304,15 +52011,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>10.47</con:value>
+              <con:value>3.89</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22181</con:value>
+              <con:value>795</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -52372,7 +52079,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJ1RlZZVGJmWlQ3Z0ttbkZNIiwidGFnIjoiYlpNeTB1dDhBT0ZxT2haOGcyRXpKQSIsInppcCI6IkRFRiJ9.yxrh_6fwIs0BZssPYSfjYmR8xSYgGGw8pFE2YybvslX1Cymyqkv1rty9fOrchVvTTbvNAFklENdcuJsF09rSjA.IDIyoS6xTFbrS7HWAeruBQ.Q84W2A675FXAtEPSK87T8HbWZFRQhhBSk4i8XOKPwzfy9ydpHrGu7F-LgjG1v2wiERGDvbi4tisMBJhnHOxE9jDEQVovqb4D_6QQ1PSN_dPVp512yrT8bZK_kv96oUwKMRxF5y3T-xGr25axHkotyU-LRiuBm5ThAGBia0eMmx1KuID-Nwn5zrcAO9WwLG1ZmFAf0_vjYW1FUmFw_fJLtx2PQXDBgRwGbXo81qzpEcdG1b2R5gVMTloGR5P2uO_RzUDP0mWyrIp2qhcEjC0MiO-_NCVLbiXX83ALEF0uZyMReAyZ62vMspkuSoXFR6Hg8lYA8gLFfITm_mWqKnYhi44xmuUzjJHGtCOLFt7yL8Wl4QEwVWT1bAFbAq0HBt_-9jp66xjMHLKBFAt8EOUJdWGhqALesW-n7k17PcsnwpUt82nOfUraXLRyTB0qqrX6.R-hZGGLCVH1eDDOM9qpPp1tkYxW0FXRQaOfUB9hHscM</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJCR195YzZTanVVMnVNSFBxIiwidGFnIjoiQVJqdS1YM1FvLWxjLUVXcmlkZGNnUSIsInppcCI6IkRFRiJ9.qPefVsC_fwooyVQ5YiIe9tSigEUnFQ0r_rltQwBXKaIn9GCXEuMgAnS9V5E0Yr5AU0ODsdFLwR0x3l4OTyK-1Q.T700k4i4o4H0CdC_l-mR6Q.scPjJgjfk8uFSuydZG4X0Uv2uW-mez9K08ijJhwzWq6tgQvgsFkGAWOMdXAtRyLs64ksQaPQ8zWRRKK1z9zIdUtNfEXR3cQ3mzuzmn_XGFcG4crTXc0nIzFySy-OcJz6kRjEnKozUEOl8mgdPh6oA9aGadX1MqMaw23tpOFmWGjyZLcH5EgMibLeOwGDfAV5Uy_N5NcstvpGjPFv_2lZNwvbT-W9CKIMGI5eWXydBPJWhjN_K86WCXhBMA0_nlZid54fH6zp0CzCztlV4nImBO_3ZMcmYCUJAbkpr0Dpm0PLP6BvXzOCbbWJlI3Hbt1rOwDxfpPfMuuzQhUwRNJUv43zI2B80w6Xvk8N8Tkgd2fkI9RV9fLQ2G3piWvhlUF1O5z1BCaLVTo31HlzTcfKb6x9IC4e_Y3btQyEN5EQ5TPQSGXUNsEzCjN4K1dKH9najdb9oxPFuPaY-0yQzvWpHQ.KYlxiJidm6oe2mjRHjvie3x3RP38T1MNf4_MoXXJcGI</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -52482,11 +52189,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>ca3d0d7b-e33f-464c-acce-ec5975825263</con:value>
+              <con:value>0b4c32f5-6f62-4b0f-a943-e8c071be7566</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>6bcde2fc-65f6-4a41-833d-1357a2388a57</con:value>
+              <con:value>16f0fe54-7575-43fe-9331-631295954047</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -52995,7 +52702,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -53003,15 +52710,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>10.47</con:value>
+              <con:value>3.89</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22182</con:value>
+              <con:value>796</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -53071,7 +52778,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJ2YXBocTNzZ2tWRnpFb3NGIiwidGFnIjoiRnBXTXQ0YzRWdXR3M2NZYklIVWRaQSIsInppcCI6IkRFRiJ9.qovyehjwW2Iwa1Ixnk2Q1K5gtrxHoiLTL34wZSaEXuCHkCCiAsKPDteJCWkoiGqTNMBu8MpxxT6cB1pwakux2g.Wfew7k8vsb83isaLGvs3-A.Vhy2b7CqY9urqUcQfAxBmTjIG-nmcqVDASv4TI2Dk3pqLx6qPcqyd9J7RmYKaHICi3fuDGA1pECIVRfEX8RrBNW28Gx5f6ptHDI2qfHgqimM3JmkzfwaWv8O5ZuVweMPDSw8Z87oXW5TLwHRx7xEx11IZBpTzxRkHRmlfa5iQrL97WXUbDee_VMfesn4GHPGHxT5Xi5nZ2d0odXD4UB5m4fFDTL8QnBGXAnIinH1ajIOjMHhgS9W8FCnsDFvw4cvK7_uNohoZ7JWj-oT9k9D-jg8CDQBMV9lkPpEpm2w2734GWB4vWkKiSQnfQ5NmGf4wRkx1N4fjzN49tlBgqkNu6I3sCOZ9f-RwL3RsR01i00T5YJ3Yyxg24EQfGghtcfb-_BV3rb37Rsu_nxrd4QM7LXFFwFBDMVnctnf5KA2qvlFFvJ-tW200iZ7JCA4eJ_h.o8KzeY87MnzTDGS0HN22gCu0lXINF6JzQdmonS9pQsk</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJhUmdxQ1JNR25TVjNsTEFoIiwidGFnIjoiUXJoTE5aNU40RExNdGdheUt2QWZQZyIsInppcCI6IkRFRiJ9.0OLeBzs2CgfQCz5O0JIFk_U3m-ZPUsNq3ql4_J-dgIcVu2BthT_JpX-2AHlzMnXhJxuTwZDUNn2bnCmVExd4Nw.UYWWZIzGUiyng4YvCIOJjQ.Fcf34koo3XYz9wIHb5OkwPmSPAmLZsCoR1Xr5uSkQWqG1XOCuyKPhYDIicnbYovzsHfyqv9HCJAT_FxmHqm2cLi7ge-29R-QD6T9EzLiOtqr04EAbYmtGws1h6AxwR2P5oGnmoNEm9N3oMuvOWiPmZ1aMycmznxyTZg7O522wxWoCjdRMDm1yGEvm5XeTbLV91TW2LgX4HKRLQ-LlKo9MzSolg7qInblqo6jyoTisLt0GH_Mpr25PWpfW1HI4XFKnTDepXjQTXEsj8YpEV4f6RWaw39HgME-F3VrsSxbTWIkt6N43IB1WssewSW2b4Lio3VnvZyBVZCivYBoWzpX-hUkf3fQBsq7LAjHtRvzBjFSstdouV_oQonCjcR1UiGtauRxR_rH86HMtdrUyPaNtZc5T3hOf5MlFiKkzJ_b5fe9rmf1R-q92RWgmh1jMmdkrOiuejHoMyJnOp7GOm22gQ.boD4eAF07F6up_MtFMUlAwr5sHAKUBx_HaLhufsCmwk</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -53181,11 +52888,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>57cce7cb-521d-4a15-bdd4-431ff6af192e</con:value>
+              <con:value>7b2c879a-cd6d-4218-9bbb-1c91bc9e5f4b</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>f54af7d2-e1a6-49e5-8ed3-b048ac7fbd45</con:value>
+              <con:value>e642bda4-6976-42fa-b113-c05a8b1511a9</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -53694,7 +53401,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -53702,15 +53409,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>10.47</con:value>
+              <con:value>3.89</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22183</con:value>
+              <con:value>797</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -53770,7 +53477,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJQZmt4a3pYUHB2NVQ3cXF0IiwidGFnIjoiVGotdENiNllOWG05czg1aGxfaTUwUSIsInppcCI6IkRFRiJ9.Q8j71DAkWvw9a9krT-16MER23EjvH5GDLMOA3a_TrVyOVVeU3jmxLTmDTEDrnz_M4Ex262Owej2Zru6qOPG0OA.2TaI-bpMdAjUVw1TUaEP5w.mAaBezloXWNvscR8mRJgVaWrnDiUGeJOyo56AVXl9ayS13vQFhzRdW4pHv0bFgCVpqychijTKY-An6AfsKPFmdyuqWJYulkNTHH0_EWRAUbVDtn93v3yotr7JN-1l3osSgH2vrxsM5_mTF_K5E-K0vnuMxnZpKocGvdgVc50MocYEfPEHOrncm_TOFzOXq_X1H8W8rhf39GTWc8Sik8ermUNjnD0j3ZB86jaKShmykLuGUR48SkCePO52X8B6gfm3dbVLbcYsjJsMl4RksR5gNgUHLyS3qaio9nh4vr78WQuZQyqioWkAD0a0m9XotMygyF4EnPewdmLSIQNxM3RR2Y0CcPyd-kLhW18wPAi0TK22zkEraQt34RRzHhKvdo_MnPULAC98YuVWy7cwfwzcH_3NBYAn2JmeAnY5O0UFLCU9xXnhr_kKqkFxR2Ul-Asq4SFUsHMPkgCn3Ig9rJQow.Kld9Zt0WPrwPWiZa3nsmHnJancI7pBp1GvA_MIdZ1C0</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJsRkoxelY3US0tVDRUT1RoIiwidGFnIjoiR3JaZFcyZ0ZNOElZbTcxSjR3TUp4QSIsInppcCI6IkRFRiJ9.MPVz4OvvhhTOGhyVnOlSE6gt2chmu3tNWFUPlH36ldXrlAAC5BwEgJkm4O6K5U2EcDp34JO3jxobqVmXi-ViLg.ZHohmmt6zPzuOPBWgyMCDA.MZKNpz6t4Tl8Aq8bZit74lgdcqndV_t2Dr3Y0-l7lLqT5hGccrdcdXj5nfG0UblKztwY1UKortYcoAKeOW4LOsepIhQupM8m2nX1LFTPfItazNaam9faUfUUreS3f_uBXUmBIxBTQkmKuBgKYkuZLHU6GcupGrBVgoxc5c0Ki96eOx_x5lJTm49h_JnTR43Pk7yG_jbAJs93p9bQp2urtLHatFlJgSLez4PLiJfjjRmbJlZOh0kd1cpNupmqTRjwn64IYVzkfDFsBGX6ICnCYDo0WzUv0NYMkJF9lcHKsXvhPmxqLTUkkYeV1WzLH2bUocnCDbMpQRphPIWnFByhfVOzq2F6-SSpPbnbaR3QmIzsnnXNXw5VPFBzNTOxq5lEV5hR8mF4bLra3QT09GaxRLaA7reAv_jQBl0c_D9PwsALqdaw7OtP5hyKd6KAIOgAqwEmz453Rz7LB6sFszXB4A.xU15Ln_DapwFjB0DjlfYmxyz_sxgClirwpvWHL7RBVw</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -53880,11 +53587,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>ea4373d0-1be5-4b28-81a9-41a9e46fb61b</con:value>
+              <con:value>58b11827-9ecf-4a2d-89bc-a180cf543e75</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>a965abd0-59db-4f48-bb77-1e7310c3c6ac</con:value>
+              <con:value>1267079c-98cf-4f2b-9ecd-bdd417dad8af</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -54393,7 +54100,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -54401,15 +54108,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>10.47</con:value>
+              <con:value>3.89</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22184</con:value>
+              <con:value>798</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -54469,7 +54176,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJKX0NhenQyU0hRcG9UeGhwIiwidGFnIjoiUEZnTExCMW4zSzZnTTJEdzJSTzhsZyIsInppcCI6IkRFRiJ9.Z2SS074KIeB19CHXxCci3Y-_YmdbQezc9kzmjKtb-bJy3UlipqanrI0VwZ2mhNL0s14ISP186V6gb6rfd-4_uA.aRGoNUth20IA8ZR5HNp1FA.YJO2UBYUdRMGt5bSn00iDJJ7Cp1taairf7zRVLUUP5iunDDQg7LhVmtjSxvUblBGjn1CR4AXfTjTr1-KAWJJ0nZcHaBdFgecyzfX5J8PJgxqCNQrrB2zQFWsWgw9lcQTzLnB46UDieF_wlk9GLlt6Ev-T-vkpZf_GAcfSN5RXSv-PP2QaRMjdsZVJIMAOJg1_jpYRUpnmmRM-vEjLGVZ5LjX8h-0lJs-KswV8Tb1MMFps_Z6mt0jz5nm9wL-awUQvz1zECbFpUqg35zWtA2-Axj-asE47q-WfArWrRgDUYnFOwIM0hJSIDLqcXWQahA8CcaJDQu7LFpiyoHI8QY_Mjc8_14KrDO3xdF0KMPZ2Q-hoqYjP8yHYd_WQUbwCJa5diqBQtFxY02Vfo1_1PZfZDZeqAVBV9PRs3vRGAbK8-ow6HC38g52RiVrTRQk-ROv-fyUmtrjIJAoKl6RAleEOQ.KwXV2ZNBvUoqWU0Qs8_0fFzcZJNj4ODDwzR8LMLrAhA</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJTQndRd3luMGZSUFlybnoxIiwidGFnIjoiODJGQmMzUHJZRDNrSVl1cmhxUW4zdyIsInppcCI6IkRFRiJ9.omNeIzI8Lm_Bf65cuTwOYyBIPBkcqe1mzxu41LB-dhZs36206C6wTgkETYZohNB2Bav1OBlVgeQeIUfuSZOLCw.HSrNFRZBTkSy5oklClftxw.-DVN67z2anPw81LpLn83hwyVwoq3jdkH9e9gPZVUH4JUxz53mnitoLBiBsaq9F-4OMGH9KjA8nMmbPi6jBc8PM6AG7Zt3alfDH3xGiSLBk8Z6mCe2rF53jdIf4V5UPHJ1wcPayBJTuWwlv0pNqRUYPtdv3Iab3wJYVGhvoVwWj1cwfGDfi7TpB1Tv_fmEbXxt170NdjxtX6JZrk-GfVhDkOi-W2eqjxqHFcHGslrXReVuovbq0FXytAn751qN6H2lS9zYeJtjnSc1ToDT1up9vujrt_UqOW-2wvRJs2F0lI1-YYrQMoj65UaPyaDFImnDKETe8EmhGXWfV2JvIYiIdI4R8eGsIrun99zw3QkzkelGFWVaKYSsnhU-ubyWWMRYreC9IV7sEo4Gk6qMXDGiYSaSLd663zdJ264ko99PT4Z__ny5F92S3ozIuMJatw3FPM17BUuZyKaECKVyoS3uQ.foP20-15udqgGy2wC9KW_C7UXWRomhxaLeSbpVbwzr0</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -54579,11 +54286,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>5a5aa84e-bbd8-4427-9e1e-dcc3387ccd9b</con:value>
+              <con:value>4846e596-ff38-4fc4-9d53-9435fa7c9ba2</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>d441e5d2-b361-4a52-a4ac-333b761e741f</con:value>
+              <con:value>5c5c94f8-104b-4595-a0a6-3d146db97b2a</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -55092,7 +54799,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -55100,15 +54807,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>10.47</con:value>
+              <con:value>3.89</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22185</con:value>
+              <con:value>799</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -55168,7 +54875,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJrY0Y3VEZQZWl0bC1QX2NXIiwidGFnIjoiZFJYRmRzVWUwOEhHWUNaWFFCclNGUSIsInppcCI6IkRFRiJ9.Ncsx1uOxqKZMQHXNj5fleZDzBQXCTvlvTG4UMNxVKmfJBp8llcX-3yoHjcVj0dY926wBLqFkZVecMjaOKChHTg.yua1VuR5a_mi_yhWX9MxgQ.pECU5AaPb1Kib5-cgiCqOzLzrW6QATEzTCg6aExlPj6veX4YbrhaeasPDSUCxn6VOPuDT_zrjWhXe1W8FhDioemrQJIO5mGP0bHLtnR_Qn9QcGdch1Wxyzdes_kKn_0cNMha2IRTn936VHY1AW_zhZxfPBG3OYm8dPRs3abh0pKJatV-MOWT4pxsRiPQE9Z1dQmOBXQC3gIGukrhLWH9I8sCXyTbnK_F3KoRdZLXnvDZLmqly1vqZLQQtCbOHl9ow0TNg79NlhmDzj8I8euVTQCk5ypAA704kzv2myQ17F4zjgsHvo-ITPmL2X22PElIo_ZrCmIhM2f6acYcv2tCg61RGYlKZFd1AniFqd1aDqpX6M0xIEH1GN9u2Jb3gDvC4sMipTHSasmc6RBzllue6eR8kBn-DNJ42z2MTtWiOE8gktH0v-95zRjK1ueNugd2K8NHRHAbZXhuo0E-amcErA.DMlxs_XPw_XGYK4NNP4VDSfXXJJ2YHUzL9vb8fwjCX0</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJuZXdwVE52RnVMNWYyYU9aIiwidGFnIjoiVjFZWThmMjQyV29yQUlWc1NTWkNqUSIsInppcCI6IkRFRiJ9.pNBQKxfgwFrw79jCGbZ6XByB7hGOR2q4-liK-KYE0GK-TEWd_m7veGZkMKS-CMsOjtROl5TT3YsIe9bmi7Qv1A.fvJeVqvwxLrwFDXMuFzGAA.SZnfE7fJbNPdIN4ANdmBhpHpkoQtOxVtkRGIYLwA4tTaIWpgm5_UKYgI3LiEAFwXC3VVYbTNHZgPvIgpAR9oeMTZzW_rQcVxpcC95NKJ0WeZ7Id5oxVUWMXGBl26nr1B3Mf8ZEEf4pbgOA__zRBTujHWZGVhSqZUwTYCYL1neUQEHz-Pbc6vXKuFZF9m-yFsJGrtO_u7bGZaFpRu2Jqj0cOLmm8v2544fRafkmpXAWFaUoRO2tt-ppSQi2TdcU8uB_9vToHkVFsaXGuGE76J32L4ywnR1e0hVFqiXHaRIR4D8WEB9Twb1ImwkPkJMjhT1o8-5bDPpetUMq0s1QtPpU1S4dU3OEuMAW2fdKjB1TdEIXLbiG1ZL4Wii4Wrr8qrc9eJ6zTLrxl3T-Un5Rz2oRN8eXGYh0-qRThhmggPbBUI2OKI83RRlI5G2EHZ_3NdpwkOL6LlIlqO6LRGPoIeoQ.KONu9i7MM50TC62bBsSJU551S7BD7OQGzjDxA4vReug</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -55278,11 +54985,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>bf4becf0-20f7-45fe-b596-ed652839334b</con:value>
+              <con:value>bfa350e3-72e2-40a9-a062-544aacdac759</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>907b6dfb-1298-4f3d-840e-88fbcdf67b2d</con:value>
+              <con:value>46334389-67ca-4967-bf47-6fa540ed01e8</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -55800,7 +55507,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -55808,15 +55515,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>10.47</con:value>
+              <con:value>3.89</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22186</con:value>
+              <con:value>800</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -55876,7 +55583,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJSbkYzWjRwdTlZTWFmbHR3IiwidGFnIjoickc5R3Z1VGtBRVNrbDVzOHJqbi1VQSIsInppcCI6IkRFRiJ9.sbMcGLKKpDynRU8VQaWq52HMO-E4XBMotYvHKgDG8HjT6XMs2FN-z55097i8hLEpgkVmpJBaYtHhBSrmgpZsOg.VCWG9FJRyu4d83b-d3tmlw.t9CXIJxhO9z6pb2MzJsxpJSNZrUG2IREmvqi2TlO24yy9Ucsf-rWB3Knp_w4mHlppGYx7euwXoHIuzR6Fhzfh7LDZOawJpmfVdooVbqVJ45D38ecIK0SGHgaRrGXGYYLmR7P95_YFxo8BL_VEKpSfib0GWE7yZaQXmLSH0wcYcszVe0fCIWYuk83Uo-q36zXMBG7yH2N4NB2dEAILfbFsr-7MFgSLC-hvI2KcIgLL4Ppm4KbofXbXJjRZnDdL5iApcCFIni1Rn-VNsvam2a4upLlAlT0NmiDBkyFKwmL0-swOZwSeYK1n2ArZn7jx1SHcAVEfOW2z8CUhgKAfXjHOYoBCycmSmo77AIaSK1o1kder45dhlTHFpxnaqDhXtTVsEbbab53mocSaFomFxzceeZzH5x-CtJGy5tx6thNUx5LLxAJpzx6u0Abu4HiZ_YSoLBP5VLQq5YyaWTCHM8_xg.WdMng0ss7MGvqHPfNTMgQblrqH0V7GtlaUI0iJcnf7U</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJCR2dhQ0pibXpRVlZFNE1XIiwidGFnIjoiS2lWTDNhMHpQU3VHNTZCcnlieC04ZyIsInppcCI6IkRFRiJ9.9wWZZbh3KOyVNgqfH7OUkJaWNsHa561BpfXRYy2p88f5lr0O5RD7jhbKMlrLI0rJcrrs4JozSm8NGWHeOHlYjA.yiHDihubwwndr2bFIoFvmg.8Y1Gdw8Yqf2uXatCX2IJO9kq795L63OpJCQNmEKyZKUBoeiYXVYvs27mR288jCfpJUG8UeeU9qJR19S0_Kvj2UvGoLPohJGeWVmrEkLZwOOCVt3eTF-Ylf5bCwcV00QGJlbFTU-0MwJMWNFlZK6UdGdj8zuJDycI262bkTEcI6ujWvIBfBbEq8XFoy838uxFLFcCbYEJJvgLK0hF48_F56W_IEJhSwAZJepnRskQR9-kRoYB7O5_hxzNe70G8Qr9l8PYWlplyWOyLGPBcJevUA13N2GwRwQsWOAjUm3QvpdDl0yQjcs44vbfkKpnBe-3s6R1dKD_8oijrx_wqTcCSq3NZAXDfhhe4areAMRJP5NlgBSyojMazb-EEBxlGxMhbprGo8En1iORCQADAZk3BCVnDw5P2vmbEa22sMPHw_QMBLPRjrMUgrrS8c_7j5--nEJsOQm8CuUuxj7LToRItA.IrFvYL38M73AZjiB4LBLiD-Cxbw7sUxGFSuxg1JsQ1A</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -55986,11 +55693,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>01faa63a-1504-4779-93a7-b61f7b4257c1</con:value>
+              <con:value>71a8b435-61a8-46cb-9891-666f291e3b67</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>e0558e9c-ce88-4aa2-9c33-cbe88e78e349</con:value>
+              <con:value>8ba29044-429e-41b2-bcc1-777db4f07bf5</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -56267,7 +55974,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
-              <con:value>9.95</con:value>
+              <con:value>50.95</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -56455,23 +56162,23 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>4.36</con:value>
+              <con:value>1.07</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
-              <con:value>9.95</con:value>
+              <con:value>50.95</con:value>
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>14.31</con:value>
+              <con:value>52.02</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22187</con:value>
+              <con:value>801</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -56531,7 +56238,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJsNXoySzV2b0Rwbm45MHV6IiwidGFnIjoiQ2hLUmZVUmU5QXM0cVBmRFcxdGVlZyIsInppcCI6IkRFRiJ9.9jt0jSUu2F0IZ5FFlBbhRcZfgaDpuH4pwIzCBElVawMk8NJvY8sznzlCNVJiVcDrDokXrh7HRlyb1EuaztuUtg.8bDgYWNmDUVQ-KOVcpuj8A.W8uUGKUJxpl1VUKvQFabp6mjskx-k7BWjJ0mE82qxl7wMs_AWQOvEFZO1MkKCImuWNL5VrhZNZZIb9B-gH7lWlKsze5z3yuyg_sZxtc4fkn5QR1B_FEPXTef0RlHlVnGkL4c6zyyVn63SiWzcmTfbAP9YWKpllpokDD7qC5kbiz6cnElBD1XLLDnRSkddsGHzaHyAc5DtAyWXbjzPqbIpulr5HuHAYwI5biZFfWneYekU0sbUUzOEHsTzm1ZPAiOJto-z2xrP0c5sfqGpxWOQWrpTdWLMQ4aRZci88q5aiQcbTtQPPmxiMLGAsQZ_v9O11rCUW0tlHUpMJv_GRtNhtdUR6IPfHGyvDvM7CVmwldi60HzbvBmW816pgU6J4jUpd_jaBIIliHzEmuUD-Fs9NeXDZUuFitlI6-gp26K8wKkAvZimhOZZDkhWXV0xqMUDaxg9Ye4L2MGTxZZ8P__kw.pimG7jmfwTDCHYi2mCGQIFTq9bAbsVTnRGrPTSICmMM</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJObkxzN0o5Z29NanZDQlpxIiwidGFnIjoiMng0dFhLd1huUXpZLVh2aUMzeXVkZyIsInppcCI6IkRFRiJ9.DimvdWbbDbUYKLPbIij96f2Uzf3lhiQoR_Rs-_NFuWKGrqDnwW8TOBF-ygNUi9AcHe45bcJsmF44qljGsw4DyA.eUgHv0oEFv_FMo8L28Cldg.zMpZscAmxtWU6y0WmpwdlQe177-wijFmfBuLurlrHf022DM2AMlCu4W9una_HkrLzP-0gYlknnBxPrHvRFfIwD1TjA43EbvMtxoD2sCRh91GzkXlTtoaSE64Q0bYLSYxoJM09S5e7lK9LS5SRQoun9GmQOWgee8vD0_UzAC8zgnCN_o1IEmypU3Jr7f3GQxJPxCLRD88kBaUPa7jB0IsPHG_7aAaZzSK75h6tqBxU6WND_-_ZzXd1zlLsXoiIYLkfuLwudwwiQy3lAdkHXuaWnkuCe8j-CWdAbzl13l0O3tiJ-cyfVFl4J_B7grMYeqdM_Qfa9zne7fdcj4q2b9nmYuPRG7ZfZVviOv98hNW74BL8u_3dzyWt0kJIYaEOg5uj1NX7Tb7uE2nOGVkfKeIgo-LozzEud-HdMLa34JMZsHqmV0e0CinK-9Ksj8ZhIbK.vYbqlHn4-QdHbRn4IoF_7QfZXg_aBYcmCr-s20WMkho</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -56641,11 +56348,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>267f31df-da99-42c7-92df-f2d867923ea5</con:value>
+              <con:value>64a1bbbb-5086-4b7c-8908-314504118722</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>f5cbc408-de18-47d6-8266-eb5f7c8777d2</con:value>
+              <con:value>7f0e8241-e53a-4308-a45d-8f0aa5f4a6e5</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -56695,9 +56402,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
             <con:originalUri>https://bww-pickuporder-api-chtest.cloudhub.io/EXP/AOO/v1/PickupOrders/5/orderId/68bd02ae-a5fb-4e18-96b0-b2ae85c3802c</con:originalUri>
             <con:assertion type="Valid HTTP Status Codes" id="8fdec129-f810-44a7-9762-9db6fa859041" name="HTTPStatusCodesCheck">
               <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
+              <con:configuration><codes>400</codes></con:configuration>
             </con:assertion>
             <con:assertion type="JsonPath Match" id="ce6ead68-1685-493d-a93a-ac033588e4a4" name="ResultCodeValueCheck">
               <con:configuration>
@@ -56774,49 +56479,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="53df9de2-4824-4d5a-9f08-3a70263a4437">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="SendEmail" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="984af075-d49d-46a7-9bf3-8410547fbed2" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="054687a8-f642-440e-8652-8c5dc0afa0ae" name="ValidHTTP_200_StatusCodes">
-              <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="Simple Contains" id="b9d687fc-416e-499c-89e9-438eed72f134" name="Message Validation">
-              <con:configuration>
-                <token>Email notification has been sent successfully</token>
-                <ignoreCase>false</ignoreCase>
-                <useRegEx>false</useRegEx>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep><con:properties/>
+      <con:properties/>
       <con:reportParameters/>
       <con:breakPoints>
         <con:testStepId>2d1b0237-e479-4889-9cfb-19b5f4d95db1</con:testStepId>
@@ -57324,7 +56987,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>19.16</con:value>
+              <con:value>17.31</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -57332,15 +56995,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>20.18</con:value>
+              <con:value>18.33</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22188</con:value>
+              <con:value>26993</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>7</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -57400,7 +57063,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJUS1luY3pRc3A1MGRGc1ZqIiwidGFnIjoiRE9rdzBhdG9wcWFkOThJQ1ljdnZQUSIsInppcCI6IkRFRiJ9.8QPUpwBbyhuMvtMeW8thaKZX9XW5oXmfSxNp4M52OVJh2uF9ssuWFx35vqL2EiuNr3MM9QJuKcHn_JPoE3o1qA.lZpSHPeNIZhFkDT6r0ZlcA.SkFs7adioopnTD5L0n-cLsx-0FGXrjnuX4xF3Z3yEOvgbHdZBb0QGI_MizWMo2i7nF2oCaGd65JbB_W0e1aelsH87YuyONQkAMieStSoJWnD1PjVD8Np78uYv0FRsbPNaeQO5TXIBoKdc9hFwdcAXg50E9NOyqjQIkNzYShvCHM41x6SSy43AATGHOPs86jOC72TzBzUHr72IwxZ6PJReutzhdnjUYiLfpf4HQe5KLh09smi7IoiivcA1qlPeKQMa-wLUt5GCJGALGtm6ASItFiu1GBuJ5uCHQR2Ci2Ef2PvGYqqKkBSqyRby8TZspv7SwImOeoAGGj1mJ5nKNeTtvq0_NFQe-KfNwOr38QO7nEEYVlPDE1BnW5VyNNitEiqGf2sbK_Su6PE66cMtrioOuovrk9gnVUV5_VNZIN_Jh5SoZVJ9dGe61WSFi3w_N1Z0_W04SeF9VotI_tem9lJSA.u3Yba-TP8Q2N0VnAh0C7-BmJQcQrAd-2mE2FWemcizQ</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiI0UUFMandLaHFjeVFQQmdYIiwidGFnIjoiY21OSFlTSTloQ0RIOFNkUW14YU1xdyIsInppcCI6IkRFRiJ9.Cn10sEuX9BX5-hRbM76yuoYHyg4cM-BtL_KjpaI4pcL5wqF0-sgL34qq2SOczeGExYniR5hiS3lqPX3hXw-XZw.wxtKOvmFq-mULaPtN1Gm0Q.cTHEeR3EBveRapaxqxfjO_TBhzKP8AYgmW_FxausxAX2TEusOg3upNG_zR6LtD61r__M4kEaMQcLwa_5M06hs6NoIbM80DyReuJNMWDuBhcpbatygp44OVQ0dTCGimnays62E4FfwqaoMlurxqlWyMtKEozd3eF9wB-bzmbCYNT4a_8gGKbI8ONOKdrqtv39bw8d7c0sEYUzOgkNu_2pzQB9ZS_croXSXMR3_7RNDjzMWwXGUQJ9sqhyx7f02lRyUzTvvCyHo5yC17lQLtmU9nSUvljrfZuEpsTQdJiGgZUATHfInB9bECmpXx_Omvsbg56FcbVQ1CSxmSu05henHb5Mago6Sp58Whb75_5tpBLawDsQlSQLfWynvkYN7VnCkL2nyJgM6O-CUlDLHpZGoo5gn41GUzI54nr_1ZifE1_SW8X8dM39iW6hLxzcoiAY20Ema7BDX1IjQq6cOZyr7w.ZO_T7nGPGx-uH6ZIdfnGTb07q7PD26mWUAf4XBUUCQo</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -57510,11 +57173,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>cd81e584-f1fb-4763-878b-85fd23cbe6bc</con:value>
+              <con:value>ad6c2a07-94b3-47f8-ac7e-9dbe873b57b1</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>b5c2559b-c9d7-4bc9-a4cd-5c7d114f853a</con:value>
+              <con:value>0cb19461-58fd-4704-acc3-3406308152da</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -58280,7 +57943,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>25782</con:value>
+              <con:value>26994</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -58344,7 +58007,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJLQnlBYW9DSnlYNzA4aFFyIiwidGFnIjoiQ1JWRURxamNQMlk2VkdTM1UxT00zdyIsInppcCI6IkRFRiJ9.ltkvmF_Uakkx72OVsR-aIn2xVVV5gpBgzkjis0-EZl-SLddJShLS8Ur4_GGl6ygQYLMxLr3xYVJkMCX2fxSg1w.9KNne-RslqUhnTyDpB8iNA.IpUWAwL4gI1qYSX8NOFLkeuhuTwzFauEOvCosvlVLIGV4BL2OVi2UgiqaijucTka6ea91LsmcUC9177rRULXP60mmw77qUmbDKqb5fiiFPDSbLk2_b8ZIZYpzmoKM2T4UnoOcqDL2HhYhn6ZMHtVkOAjR1QXBlbjRsWJKUceJXoS3SiZYIIKr5ovLehIW9Lf2DTodthb0NkZL5wXjG38WnE49nFqcwpgt_6a-INnmsnW6mth9W1SutTKOG_jQD_KeBLR5WPVWnt5MeaSqFkyL_SZr8RRdtE4WgpGnh_5SJoG7SGqL72yL4n9LsMe0bKValeX7XOe7xTgsDG_4xVrkVDwm0wLP0PnB7JlNMhi795nJ9CPYDK0-nDoW506yeXYyeLvHNkJKlFtsdOhqP0F9WAUQojVOBy0cXf8hQXAiCcV_p6tPoHvefeJqwf1zaoTGbm0PFlR_mkRPKVAnO4c0w.3kSK1625d2zYUC13uMLR3LBIlIzTZtWtenzk_DnexXE</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJFNlFFNXZWUGZyaVBudEFSIiwidGFnIjoiQnZyc0ZOX1lEVDZCaDBMcy0xb0lhZyIsInppcCI6IkRFRiJ9.dFBOY62c6-RboueJy9B0JeO7CkL_JRGd0VO8xKXeBxZmVW6U52l53cWhPeE45S6hOWEAwuJ61oYHDZpUKfqweg.8jVoQ1ziM6bIPgMddWmodw.yH3qA3SapGymE3ObZERnY7bhCVqhoHaUCISF2XJNI5M9vA3iBRV642guJUrVVx9PCklvetrHAcWV2dGKxKVBtrhVMfcERhw18KbjugaqhGUsG4C2dYR4p9QCsfkIKmCReqUtp_qV0bEZPdJW838OFmUxP8Efbs4JbihEapgX4BoIUcHR_zC0hG1fymeTEztS3LJmqaGybf2YQbKQ0NEH5ZApREOlR2WRTcRFQt69DZho1xpRAtA0ZUGRvEihjGx9Qd1YvZHlAdko41a-4oDj3I58srGmVdTE2jYPxf1HseYjT4VY-sOAZ1810TIYclKOLFyvQTS95CeY5Q1mBbeqF5fzIvZnsWxzIhvgHSTHhftoPkiCwJlxNnkAZDnjL6Wtvy2rM5TRqQC8z3Bm8C_Ce1eDFTXOG4QRWqS4p19Ho7Lr6D8pzIqnUvx4hW0Q8F9Hfv4UM2W9yBWSp2JM2aCwtg.adyhbyrtvccdcX8KhFVdcWg5t7qWtq2Tni4J5qrn-0w</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -58454,11 +58117,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>ce854dbe-4ea3-4337-8fca-dbc44a9815fb</con:value>
+              <con:value>679e303d-dd43-4903-8fe8-5382cf368ed2</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>afb64aa1-2954-47ac-9038-b2d5c6513209</con:value>
+              <con:value>4bc79562-9317-49ed-b086-02f886202082</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -59491,7 +59154,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>25726</con:value>
+              <con:value>26995</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -59555,7 +59218,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJZOGN4T1hkWm50MFZEYk1wIiwidGFnIjoiLTZIRHp2ZEo5TGVhOUlQaG1mTkxWQSIsInppcCI6IkRFRiJ9.aHXHXXeSyk6VxsMNvDDZKUL-QTB2tx7fpjpdZraC7q2pukTdXE1ncvoxH_1hcVW4AD0nJnS8IyZVWXfmVN0T9A.3N_7Ap8LVjmmmGvrj5QPqQ.NFk9mBeyY8RAoD6zJGyekFitXwz5g5OIeEtC-L6OfELQ9GJxR065gjRWcHWwlVXImxaJqEdkcHJaKCqWyX1sTPJCutTemGTUHxKvyZr-Z7Bx_ieiBLTGIXRtip112iSU_X73p77o0niQCy1rNvN9dCtAwCdzEaf8BvJujnsEizVvFgWjyX4u37BWe-2sEtRI0dcZiEkb5Hfzd2fWb_nVls4fQqnId2sfjc1aVf4GHUi9tN3mwJNe-YXkjwNWEfC_usCVzTAtK3yx0cJvgGN8B0N9TD9QTbStdnZzInKpbL4hsEfpClPcuZOyCkTh1HpqDDrYZlqFoKC29fSMw3SrDjyPhAf3AGgAEgs5M5_RFHyxCweMMx8eOyvGEPm1rumOOT8n0n01Ye-JB0rrKKoP3taeE7n_IONnN9IoSxOQTno2uUW7Thqr568ukn_YqGDyVMBvv7_3QdrZRt4X8YGLmg.VN6H6xNtL0LnBTSnbPdXnvQj6NqQXQIehQJEcReFS3A</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJlLUxGcXoxRlBhdjYwT0hNIiwidGFnIjoiZXplakhxRE5QRFd2aGM0SkFsWkQ5QSIsInppcCI6IkRFRiJ9.8H4leXgI1PpNrnaH02sstIpCJJfKlKGJlcsoxBDgia2tUYBo6vLfOngEbZsFFNnLB9ihtyr4Nz7oNZKiU2UL8A.knNnItRRGeM_DekugCXP_Q.cqGCOICDdHb-M7u-DcI826hkQ-fU8lEV1iReVIiTt-hdPlmFJGQR7AxZq5yO-q-Mh6Np7Yn0MGc1S5WCwQDEXIphep11HSnS49Es34Zh1RjOAMDLq6u-CsV2CFltRzITvp6dZ1zh6j4yWCPicxt3YjHNs0N2o9sVmKNwyU2i12L9UIyY2C4d8Z7B9u6uoRhV6UZIw30Wkar1uBSYyKhtF5-RKCQdphBw_wlR_zh0MDPy034tJsQlXpLmhm-Fyl1Sef1Ubsj0CKiPRKJYuThA_ToEqdtGgKBU53CyAcKib6fz9Pju8hq9L8nIscjiUo1TgAkVNotIOleMz29Tv_I_KIkOGHem30hiHGs9vmhmp4P-kZuysuTlEGHQv1PUCVHuhMY0DQzY5LelTbLbUbtHuj94mQ_ZS03GGKKs9HKd4aUPMRhe0pBoLH3x-kEV5rdEhhMOPOrndcl6jY9T2vAwlA.yVMNF8MGJLFmVj2xYT0V6EXlbg5_nSDRNoko0G1sjwg</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -59665,11 +59328,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>bb5f0f1e-f53a-4574-9b4f-1f0e26491874</con:value>
+              <con:value>98c88d3a-a294-4507-9021-9928be16ed41</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>d1728f10-3895-487e-9e60-67cb86b9cc4a</con:value>
+              <con:value>3287f5af-87a8-433e-99ae-f62229dacfe1</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -59944,48 +59607,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="d4c6081b-6bc1-4d90-af60-6512cc0e9615">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="SendEmail" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="984af075-d49d-46a7-9bf3-8410547fbed2" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="e61af77efc1e4477bf8b83ade31901b5"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="b412815427554a96ADBc8Cd2af6C368f"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Simple Contains" id="1c72bbff-a69a-4064-9891-a8e2067595a9" name="Message Validation">
-              <con:configuration>
-                <token>Email notification has been sent successfully</token>
-                <ignoreCase>false</ignoreCase>
-                <useRegEx>false</useRegEx>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="Valid HTTP Status Codes" id="22d7aa49-986a-487b-9a2f-39bac66c019f" name="Valid HTTP Status Codes">
-              <con:settings/><con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="101a9300-f8c5-4141-a080-4775219fdf56">
         <con:settings/>
         <con:config service="OrderStatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -60518,7 +60140,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>25783</con:value>
+              <con:value>26996</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -60582,7 +60204,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiI5ZzJQaWxDcGR0QXN5MlhHIiwidGFnIjoiTFMwZ213Nk1iUFFPNDRrU2E2YmV2ZyIsInppcCI6IkRFRiJ9.2E5uAPFFsojuYIQ7OETB3tPKlA-kHktl0xuj94UgSjR_UHmXMV_aClbyDgfnYBQrPruka1_DlE8lhECZxGqukA.dH4oROT118_ct_ptZBA7BA.dlBPYkWNUFGX-qEknm8kpozUQkQvT14Y75X8xoaXS3zHw74xQ8oPX0vIOlvlsSBC4t8sp-mXvGcNqcp5eM2HkX2BklLes7CxTXAlGpHTFtiGpL_Cu5KrNJI-T1HPpHf94JXndSh9bAGwbw9CkRa3T8WK2Z_PYOdE_C07klj9RWvpLnP9MsQ1ZxfaSnzBUKnoErrzj91DBXr2rRIbgAL0xZpViINk7TSHG6ek5Tykp3Gw8KNBoX5B6tjCk2b9uQd6T6oRa_7Ngyx_tXkihQa1G7Mgr5x7Qd_y_aGL68vnSH8TiNqyRyah8II75AlbA_KbQfDDlEMYKJQQSu8PL0N9YEIq5MufAvh2IgJaevAwewx7LWYab96vTLPSBwBNPKbhh34eU5l50tUIEdAj9lzWV7A8Aa1Txp8dyMsGkEvcvjNxHZuAq7MvYmsM3yT3bhZLNGLT_ZushVlVI2vMpm78Vg.ieb7iGNRZOV7KlYi73LM7WzYv8sTpH4F9MGwCU9oDgs</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJaRzBhUVlzX0t0NkJzWGpCIiwidGFnIjoiTDJwLWp4Z2l6eWFpZUZjdlBLOG0tQSIsInppcCI6IkRFRiJ9.JggthF6ShYrAi7lkaznndi7TUCD12gXZ2J4fc0vlAgea9ng9gWXB71PG7UDaKajWPVqfpQCUlR5j-J7Lvwxt5Q.Zh5hn8vN6DbmDUvgXGJzFA.7UECs2DzvVXS55MR2vtMQr63zS0S8TvL2z9EZGuE7qlCEfafEr0Bjj3zApVXsuJVOeYc0TYTEAFSI7m56NxmCGw2T2oav-cwQVvRgp5O3kD0QGIE5_RxlXKWoL4AqpUCxvrCspC2O9SIB3ap8Lhx8G0aFAdWTOiQUeZ0yMBYwcyLZ7vkIFQt0jbpHR2AcXrAMEnMtf4bms4pPudSG3_joRLU1dEKbInfWkGy4zYLL0iErbO2al7fm0p3kn8OnewAVg9I8JnWjjcvLQjfb2b1ZyaskI-xL7h6zP_2bY2P5WjEDrEWrJcFnh2681NdYR3hxg-GzPwYtT2fPRugE5jNoRTDaM-eIoYwXuDtz-JdnUbpcBi7-sTJVVM5dyrvs4zbuJXU36h2Y3P-46isC_H3wa4iVhZCnBR7cs_whaNiw0wt-tDYoZ65T-gT3b1LREqwvbcZtPJPs_Sbta9jYHH08w.XAlvkFJByd5we7I-f2ru0bUebqbnpJMip6H-3EpgY30</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -60692,11 +60314,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>12432b7b-e399-4138-b8d0-df4d5ff98a83</con:value>
+              <con:value>5a9c37e5-abfb-4982-8b48-e3c7b3b09aa0</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>789ae036-20ce-4ec6-aeeb-052070f2e69c</con:value>
+              <con:value>ebafcb87-80ee-4b8f-ba7d-5f67e2fa7dc4</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -60819,48 +60441,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="5759882b-3e97-4f24-991b-02d4e42cc893">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="SendEmail" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="984af075-d49d-46a7-9bf3-8410547fbed2" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="e61af77efc1e4477bf8b83ade31901b5"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="b412815427554a96ADBc8Cd2af6C368f"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Simple Contains" id="d18b2a74-616b-4f65-a9d9-f7ee1284b9ac" name="Message Validation">
-              <con:configuration>
-                <token>Email notification has been sent successfully</token>
-                <ignoreCase>false</ignoreCase>
-                <useRegEx>false</useRegEx>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="Valid HTTP Status Codes" id="17e9297f-0865-42aa-a985-401e65abd6de" name="Valid HTTP Status Codes">
-              <con:settings/><con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_MockCancel" id="c0cb983d-64b2-4532-aeae-1d9af46a82ed">
         <con:settings/>
         <con:config service="MockCancel" resourcePath="/store/cancel" methodName="MockCancel" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -61280,48 +60861,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="8576774d-253d-4fda-b065-45de4e53af5f">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="SendEmail" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="984af075-d49d-46a7-9bf3-8410547fbed2" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="e61af77efc1e4477bf8b83ade31901b5"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="b412815427554a96ADBc8Cd2af6C368f"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Simple Contains" id="497e994c-ebba-4dfd-8d9c-ca0158509530" name="Message Validation">
-              <con:configuration>
-                <token>Email notification has been sent successfully</token>
-                <ignoreCase>false</ignoreCase>
-                <useRegEx>false</useRegEx>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="Valid HTTP Status Codes" id="b5834a6c-c32b-4b6a-aca0-1d86ea481151" name="Valid HTTP Status Codes">
-              <con:settings/><con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-  <con:entry key="orderId" value="${Properties#orderid}"/>
-  <con:entry key="siteId" value="${Properties#siteid}"/>
-</con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:properties/>
       <con:reportParameters/>
       <con:breakPoints>
@@ -61811,11 +61351,11 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>37743</con:value>
+              <con:value>26997</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>3</con:value>
+              <con:value>7</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -61875,7 +61415,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJkREIyUmhiajJndncyRW5MIiwidGFnIjoiV0V3d0IzdHJCc3J6YWVpOUViYUM0ZyIsInppcCI6IkRFRiJ9.4KZLZUqj0rBeX9KA3OVovr_jLhnmSVM8f-MUGIoxK99vOWTcflReVDyCz5wYu56OWNwMnOvKQktwHoFg7F5V7g.VzlJ4azXcV7xxnjL8uT75Q.gkMcYi08a2LP2bTyaTNNKcw-fxnIGLV4FTw2zOvEciArZvvzpoaZDyRTCnqp4rqHBOrH_MbVfDLzsYSLqhNjGQP2zbF-V-c-avSLorTeL9d8wpq06J8-nt5qbkZ6NGAy9dpfcei-fKYV6voPj6zTg498P3Cbd6VEZ8TX6npArh21GsoR2X5if6-QqrLG7mUPSQssGrQae6pvbYFHXj7wL31gA0TYzyks6tWuzadi8zYwMxKwq5FDF6R5ebXjhuCFNnNJrjnk8ypUwBlSFyIeHJI5ZHwRW2fyXopMO1dhJ2Tkvv5AMYZPGQnrlTVfly6aYtKFq6gqXNt7kgMkf3EF3htlT9nYeOZLrx8REztLHk7TQ4lC15V2QFXzkJdcJIRJ3nOlSVwzpPq5mTh1ksCs2OnHHs6PtgYUzchnCsaQ5Fqiuuzv4OOaQSvL1UQmOYtv.hVo2UGjCKCqqYnRnlj5dJ-YpWxUEJRziCh22IIt7f_Y</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJFam1hUGQxNGw2a0JXLTV6IiwidGFnIjoiZnNqQ2JLV0ZCdlNhN3JkWUJCeG1mZyIsInppcCI6IkRFRiJ9.4528YM67ar5qdBg28ROCV_uSjDc0tuQOAa3RetoBUdAcRztPrBNmECVrbHd3JwQyggZx4kr28rrczHICPSRBkg.UJDCGlqJ396TKJAe-zkRgA.ef_DrikAWlo85vvUtqZEJ56YWr1GmvTf-URIYFqg0poqzTllx835Ydk46PzuHZB0elXHzmDzftKfrRlT0qgZ5ZqMs9C6ko9TQpsl6WCeXh1pLI0vw2wSaaMNxe6mIqHMnV5iMsIHig-0f8mwd3YYs_nDW8Zb3U42pZ8xXBFVHWG1dlLm3GgfCp9lOCzYrQcFZgXw9EKZrgs-2SQZL3yHk8SeFXaCDt27wwxGR_MrIFL_0y9zQhl7CyVPV7_i-j2T31iiEwxK3whFotFBUYv_AiXrNPi1AraUp7mCUjmYq_FefHaNCC-VH9VbsfQSM3BRbfb3wD0-sOV5oPOnPRMVhM5Gjr6BAzuRd_IQfEWsIGsh5dOQuVokCVbNj_GqiYkGSeoCL2iPP78k4unxZSABDhI08wVHxNGizKwfd0datBqSMp_OPdq0p2h-i6zN5V06a7hcnIsJywjpn8DfkyFtHg.lSu7a2MCJojbUQsWoGykkh1uYRIZjbUO2jSUqTM0T20</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -61985,11 +61525,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>364162d7-4f7b-4a42-acfb-628a70f1d8e8</con:value>
+              <con:value>e307868f-c8b2-4a81-b8be-83042d0d4101</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>48daffb8-4bc5-4005-b7de-72790b3c990b</con:value>
+              <con:value>60547ac0-318d-4820-bafd-744f24130a33</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -62154,48 +61694,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="d1dd84a2-cb3b-48fd-a286-9e5e71b22c6d">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="SendEmail" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="984af075-d49d-46a7-9bf3-8410547fbed2" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="e61af77efc1e4477bf8b83ade31901b5"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="b412815427554a96ADBc8Cd2af6C368f"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Simple Contains" id="fc5fa63e-516f-44bc-be32-6ea1b0ccad34" name="Message Validation">
-              <con:configuration>
-                <token>Email notification has been sent successfully</token>
-                <ignoreCase>false</ignoreCase>
-                <useRegEx>false</useRegEx>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="Valid HTTP Status Codes" id="90d0d97e-7dbe-44b3-a8d0-d686b943876b" name="Valid HTTP Status Codes">
-              <con:settings/><con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_MockCancel" id="c9b1017d-03dd-4a18-8b51-63097096a503">
         <con:settings/>
         <con:config service="MockCancel" resourcePath="/store/cancel" methodName="MockCancel" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -62719,7 +62218,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>8.12</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -62727,15 +62226,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>8.12</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22152</con:value>
+              <con:value>27010</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>7</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -65825,7 +65324,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -65833,15 +65332,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22134</con:value>
+              <con:value>802</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -66494,7 +65993,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -66502,15 +66001,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22135</con:value>
+              <con:value>803</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -67509,7 +67008,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -67517,15 +67016,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22137</con:value>
+              <con:value>805</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -68194,7 +67693,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -68202,15 +67701,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>14.8</con:value>
+              <con:value>7.06</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22138</con:value>
+              <con:value>806</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -68626,7 +68125,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -68634,15 +68133,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>8.72</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22139</con:value>
+              <con:value>807</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -69136,7 +68635,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>12.98</con:value>
+              <con:value>11.77</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -69144,15 +68643,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>12.98</con:value>
+              <con:value>11.77</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22140</con:value>
+              <con:value>808</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -69657,7 +69156,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>17.34</con:value>
+              <con:value>15.62</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -69665,15 +69164,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>17.34</con:value>
+              <con:value>15.62</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22141</con:value>
+              <con:value>809</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -70160,7 +69659,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>16.3</con:value>
+              <con:value>14.87</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -70168,15 +69667,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>16.3</con:value>
+              <con:value>14.87</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22142</con:value>
+              <con:value>810</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -70624,7 +70123,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>6.65</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -70632,15 +70131,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>6.65</con:value>
+              <con:value>2.14</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22143</con:value>
+              <con:value>811</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -71097,7 +70596,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>1.94</con:value>
+              <con:value>1.81</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -71105,15 +70604,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>1.94</con:value>
+              <con:value>1.81</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22144</con:value>
+              <con:value>812</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -71637,7 +71136,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>11.03</con:value>
+              <con:value>9.15</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -71645,15 +71144,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>11.03</con:value>
+              <con:value>9.15</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22145</con:value>
+              <con:value>813</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -72156,7 +71655,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>6.08</con:value>
+              <con:value>4.92</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -72164,15 +71663,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>6.08</con:value>
+              <con:value>4.92</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22146</con:value>
+              <con:value>814</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -73164,7 +72663,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>34.49</con:value>
+              <con:value>32.13</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -73172,15 +72671,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>34.49</con:value>
+              <con:value>32.13</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22149</con:value>
+              <con:value>817</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -73683,7 +73182,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>12.41</con:value>
+              <con:value>11.24</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -73691,15 +73190,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>12.41</con:value>
+              <con:value>11.24</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22150</con:value>
+              <con:value>818</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -74202,7 +73701,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           <con:properties>
             <con:property>
               <con:name>amount</con:name>
-              <con:value>3.68</con:value>
+              <con:value>3.43</con:value>
             </con:property>
             <con:property>
               <con:name>resttip</con:name>
@@ -74210,15 +73709,15 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>totalamount</con:name>
-              <con:value>3.68</con:value>
+              <con:value>3.43</con:value>
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>22151</con:value>
+              <con:value>819</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>5</con:value>
+              <con:value>9</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -74525,7 +74024,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
     </con:property>
     <con:property>
       <con:name>ptime</con:name>
-      <con:value>2019-04-05T13:00:00</con:value>
+      <con:value>2019-04-10T13:00:00</con:value>
     </con:property>
   </con:properties>
   <con:wssContainer/>
