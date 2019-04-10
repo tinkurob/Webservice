@@ -932,7 +932,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>25999</con:value>
+              <con:value>27386</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -1044,40 +1044,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="791cd476-f39f-4b88-96cc-61bc5f0098de">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="Email 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="9126824c-a178-4f72-a2be-5068d67e5744" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${#Project#ClientID}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${#Project#ClientSecret}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="4cb2a6ba-3c42-4f7f-be67-6c2653e5f275" name="Valid HTTP Status Codes">
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry/>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="2a5c74bf-ed47-44b1-ac67-f0a4761f9e22">
         <con:settings/>
         <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -1475,7 +1442,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>26000</con:value>
+              <con:value>27387</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -1587,40 +1554,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="91c33c9c-718d-4d3d-83a8-d53681e90c10">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="Email 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="9126824c-a178-4f72-a2be-5068d67e5744" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${#Project#ClientID}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${#Project#ClientSecret}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="8fadfdb3-52a9-4173-99b1-2db9a6497221" name="Valid HTTP Status Codes">
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry/>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="f4e70b25-06df-41cf-a824-6ebf058a401e">
         <con:settings/>
         <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2029,7 +1963,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>26001</con:value>
+              <con:value>27388</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -2141,40 +2075,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="2143c231-21ba-4fb2-beea-0d3b488e3543">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="Email 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="9126824c-a178-4f72-a2be-5068d67e5744" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${#Project#ClientID}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${#Project#ClientSecret}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="e6e51826-c61f-4f16-a72d-b4cd0812b879" name="Valid HTTP Status Codes">
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry/>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="54185297-7883-42c5-b8fe-21a2bb4e3cc5">
         <con:settings/>
         <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -2483,215 +2384,12 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="transfer" name="PutOrderPropertyTransfer" id="6479b894-0dc7-41e5-8ccf-f3127901134a">
-        <con:settings/>
-        <con:config xsi:type="con:PropertyTransfersStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>amount</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['TotalAmount']</con:sourcePath>
-            <con:targetType>amount</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:targetPath/>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>resttip</con:name>
-            <con:sourceType>resttip</con:sourceType>
-            <con:sourceStep>Properties</con:sourceStep>
-            <con:sourcePath/>
-            <con:targetType>resttip</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>XPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>orderid</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['OrderId']</con:sourcePath>
-            <con:targetType>orderid</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>siteid</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['SiteId']</con:sourcePath>
-            <con:targetType>siteid</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="groovy" name="GroovyScript-SumAmtNTips" id="0a467181-757e-4f09-9d3a-e43698bbfba2">
-        <con:settings/>
-        <con:config>
-          <script>import java.util.*
-import groovy.util.xmlparser.*
-import groovy.util.*
-import com.eviware.soapui.*
-
-def a = context.expand( '${AmountProperties#amount}' ) 
-def b = context.expand( '${AmountProperties#resttip}' ) 
-log.info a
-log.info b
-
-def c= new BigDecimal(a) + new BigDecimal(b)
-log.info c
-testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount",c.toString())</script>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="properties" name="AmountProperties" id="79e747dc-d0fe-4741-98d4-33a29d894c1d">
-        <con:settings/>
-        <con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:properties>
-            <con:property>
-              <con:name>amount</con:name>
-              <con:value>15.73</con:value>
-            </con:property>
-            <con:property>
-              <con:name>resttip</con:name>
-              <con:value>0.0</con:value>
-            </con:property>
-            <con:property>
-              <con:name>totalamount</con:name>
-              <con:value>15.73</con:value>
-            </con:property>
-            <con:property>
-              <con:name>orderid</con:name>
-              <con:value>26002</con:value>
-            </con:property>
-            <con:property>
-              <con:name>siteid</con:name>
-              <con:value>7</con:value>
-            </con:property>
-          </con:properties>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="restrequest" name="Step_PickupPostOrder" id="ad119018-5f34-4d68-8897-bdc4866fe78f">
-        <con:settings/>
-        <con:config service="PickUpPostOrder" resourcePath="/AOO/v2/PickupOrders/{siteId}/{orderId}/{customerId}" methodName="PickupPostOrder" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_PickupPostOrder" id="5603d274-6826-4482-903f-8c46ccca572d" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-  &lt;con:entry key="origin" value="*"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request>{
-   "RestaurantTip": ${Properties#resttip} , 
-   "RestaurantEmailId": "trob@buffalowildwings.com",  
-   "SendEmail": true,
-   "PromiseDateTime": "${Properties#ptime}",
-   "ApplyStoredValue": true,
-   "UpdateTimeDisabled": true,
-   "LockOrderModification": true,
-   "FavoriteName": "qafav",
-   "ASAPDeliveryTimeEnabled": true,
-   "Vehicle":    
-      {
-      "$id": "3",
-      "Make": "sample string 1",
-      "Model": "sample string 2",
-      "Color": "sample string 3"
-      }
-}</con:request>
-            <con:originalUri>https://bww-pickuporder-api-chtest.cloudhub.io/EXP/AOO/v1/PickupOrders/5/orderId/68bd02ae-a5fb-4e18-96b0-b2ae85c3802c</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="8fdec129-f810-44a7-9762-9db6fa859041" name="HTTPStatusCodesCheck">
-              <con:settings/>
-              <con:configuration>
-                <codes>403</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="794ead78-d533-4399-9af6-8a343554c0e8" name="OrderStatus_FAILED_Check">
-              <con:configuration>
-                <path>$['OrderStatus']['Status']</path>
-                <content>FAILED</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${AmountProperties#orderid}"/>
-              <con:entry key="customerId" value="${Properties#customerid}"/>
-              <con:entry key="siteId" value="${AmountProperties#siteid}"/>
-              <con:entry key="forceATODeposit" value="false"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-              <con:entry>customerId</con:entry>
-              <con:entry>forceATODeposit</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
       
-      <con:testStep type="restrequest" name="Step_OrderStatus" id="564caccb-0981-4221-bef6-b4383358f6d5">
-        <con:settings/>
-        <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_OrderStatus" id="33153867-6626-4c86-ab40-61ff8310603e" mediaType="application/json">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/EXP/AOO/v1/locations/3/orders/d98ff105-fc87-4b00-913c-d5bf7d01ee65</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="eb157f9f-fdb8-4ca0-bab5-b216679aa266" name="Valid HTTP_400_Status Codes">
-              <con:configuration>
-                <codes>400</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="085fe54f-1368-41c1-a023-44373d09248f" name="OrderStatus_FAILED_Check">
-              <con:configuration>
-                <path>$['OrderStatus']['Status']</path>
-                <content>FAILED</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="Simple Contains" id="b7d1dc86-d2b4-453b-bc43-b399b3abdc21" name="&quot;ErrorDescription&quot;: &quot;Record not found for given orderUniqueId&quot;">
-              <con:configuration>
-                <token>"ErrorDescription": "Record not found for given orderUniqueId"</token>
-                <ignoreCase>false</ignoreCase>
-                <useRegEx>false</useRegEx>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="order_token" value="${Step_PickupPostOrder#Response#$['OrderUniqueId']}"/>
-              <con:entry key="siteId" value="${AmountProperties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>order_token</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
+      
+      
+      
+      
       <con:properties/>
       <con:reportParameters/>
       <con:breakPoints>
@@ -2947,215 +2645,12 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="transfer" name="PutOrderPropertyTransfer" id="bb1d3c1f-3a8c-4db2-97ef-c24940b556e4">
-        <con:settings/>
-        <con:config xsi:type="con:PropertyTransfersStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>amount</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['TotalAmount']</con:sourcePath>
-            <con:targetType>amount</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:targetPath/>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>resttip</con:name>
-            <con:sourceType>resttip</con:sourceType>
-            <con:sourceStep>Properties</con:sourceStep>
-            <con:sourcePath/>
-            <con:targetType>resttip</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>XPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>orderid</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['OrderId']</con:sourcePath>
-            <con:targetType>orderid</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>siteid</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['SiteId']</con:sourcePath>
-            <con:targetType>siteid</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="groovy" name="GroovyScript-SumAmtNTips" id="332feb5e-cb47-4aff-a135-83e7db5f0bc5">
-        <con:settings/>
-        <con:config>
-          <script>import java.util.*
-import groovy.util.xmlparser.*
-import groovy.util.*
-import com.eviware.soapui.*
-
-def a = context.expand( '${AmountProperties#amount}' ) 
-def b = context.expand( '${AmountProperties#resttip}' ) 
-log.info a
-log.info b
-
-def c= new BigDecimal(a) + new BigDecimal(b)
-log.info c
-testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount",c.toString())</script>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="properties" name="AmountProperties" id="0c8af97e-63e6-48de-845e-4c938577e276">
-        <con:settings/>
-        <con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:properties>
-            <con:property>
-              <con:name>amount</con:name>
-              <con:value>6.19</con:value>
-            </con:property>
-            <con:property>
-              <con:name>resttip</con:name>
-              <con:value>0.0</con:value>
-            </con:property>
-            <con:property>
-              <con:name>totalamount</con:name>
-              <con:value>6.19</con:value>
-            </con:property>
-            <con:property>
-              <con:name>orderid</con:name>
-              <con:value>26004</con:value>
-            </con:property>
-            <con:property>
-              <con:name>siteid</con:name>
-              <con:value>7</con:value>
-            </con:property>
-          </con:properties>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="restrequest" name="Step_PickupPostOrder" id="6ca3deac-3c29-43e9-99c2-286d8b5eee78">
-        <con:settings/>
-        <con:config service="PickUpPostOrder" resourcePath="/AOO/v2/PickupOrders/{siteId}/{orderId}/{customerId}" methodName="PickupPostOrder" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_PickupPostOrder" id="5603d274-6826-4482-903f-8c46ccca572d" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-  &lt;con:entry key="origin" value="*"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request>{
-   "RestaurantTip": ${Properties#resttip} , 
-   "RestaurantEmailId": "trob@buffalowildwings.com",  
-   "SendEmail": true,
-   "PromiseDateTime": "${Properties#ptime}",
-   "ApplyStoredValue": true,
-   "UpdateTimeDisabled": true,
-   "LockOrderModification": true,
-   "FavoriteName": "qafav",
-   "ASAPDeliveryTimeEnabled": true,
-   "Vehicle":    
-      {
-      "$id": "3",
-      "Make": "sample string 1",
-      "Model": "sample string 2",
-      "Color": "sample string 3"
-      }
-}</con:request>
-            <con:originalUri>https://bww-pickuporder-api-chtest.cloudhub.io/EXP/AOO/v1/PickupOrders/5/orderId/68bd02ae-a5fb-4e18-96b0-b2ae85c3802c</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="8fdec129-f810-44a7-9762-9db6fa859041" name="HTTPStatusCodesCheck">
-              <con:settings/>
-              <con:configuration>
-                <codes>403</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="794ead78-d533-4399-9af6-8a343554c0e8" name="OrderStatus_FAILED_Check">
-              <con:configuration>
-                <path>$['OrderStatus']['Status']</path>
-                <content>FAILED</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${AmountProperties#orderid}"/>
-              <con:entry key="customerId" value="${Properties#customerid}"/>
-              <con:entry key="siteId" value="${AmountProperties#siteid}"/>
-              <con:entry key="forceATODeposit" value="false"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-              <con:entry>customerId</con:entry>
-              <con:entry>forceATODeposit</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
       
-      <con:testStep type="restrequest" name="Step_OrderStatus" id="5f8c6afb-e3d7-4daa-92f4-cdb071c70121">
-        <con:settings/>
-        <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_OrderStatus" id="33153867-6626-4c86-ab40-61ff8310603e" mediaType="application/json">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/EXP/AOO/v1/locations/3/orders/d98ff105-fc87-4b00-913c-d5bf7d01ee65</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="eb157f9f-fdb8-4ca0-bab5-b216679aa266" name="Valid HTTP_200_Status Codes">
-              <con:configuration>
-                <codes>400</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="085fe54f-1368-41c1-a023-44373d09248f" name="OrderStatus_SUCCESS_Check">
-              <con:configuration>
-                <path>$['OrderStatus']['Status']</path>
-                <content>FAILED</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="Simple Contains" id="8b1cbe32-d3fe-42fe-b37a-6eac6baf259e" name="Record not found for given orderUniqueId">
-              <con:configuration>
-                <token>Record not found for given orderUniqueId</token>
-                <ignoreCase>false</ignoreCase>
-                <useRegEx>false</useRegEx>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="order_token" value="${Step_PickupPostOrder#Response#$['OrderUniqueId']}"/>
-              <con:entry key="siteId" value="${AmountProperties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>order_token</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
+      
+      
+      
+      
       <con:properties/>
       <con:reportParameters/>
       <con:breakPoints>
@@ -3502,7 +2997,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>26005</con:value>
+              <con:value>27391</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -3614,40 +3109,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="2aef7c8d-4369-47d9-8f6c-75d7419fc0dc">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="Email 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="9126824c-a178-4f72-a2be-5068d67e5744" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${#Project#ClientID}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${#Project#ClientSecret}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="cf45abc7-ed6f-4d39-9500-8115c76b9a3c" name="Valid HTTP Status Codes">
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry/>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="54c5d32b-4e40-4805-abdb-03d59df9de38">
         <con:settings/>
         <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4075,7 +3537,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>26006</con:value>
+              <con:value>27392</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -4187,40 +3649,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="9657cc14-bc4c-460e-8918-20cac0897d4e">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="Email 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="9126824c-a178-4f72-a2be-5068d67e5744" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${#Project#ClientID}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${#Project#ClientSecret}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="8958a29b-c38a-4b16-b610-b3eed35d58c6" name="Valid HTTP Status Codes">
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry/>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="5b359181-13dd-4394-aa28-522f0626f5b4">
         <con:settings/>
         <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -4627,7 +4056,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>26007</con:value>
+              <con:value>27393</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -4739,40 +4168,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="a3eb79dc-e6c3-4278-ba14-c1d696917a8c">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="Email 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="9126824c-a178-4f72-a2be-5068d67e5744" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${#Project#ClientID}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${#Project#ClientSecret}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="9501c97b-2609-461a-8ccd-62e524c7a222" name="Valid HTTP Status Codes">
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry/>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="ee235045-fe9e-4208-8636-e88484020175">
         <con:settings/>
         <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -5668,7 +5064,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>26003</con:value>
+              <con:value>27396</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -5780,40 +5176,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="c6b3363b-393e-4f9b-aeee-2596d1e55f9d">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="Email 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="9126824c-a178-4f72-a2be-5068d67e5744" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${#Project#ClientID}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${#Project#ClientSecret}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="fb446c73-009f-4ee7-ad49-90f8cdb87b2f" name="Valid HTTP Status Codes">
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry/>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="e4a6c39a-259c-46c9-8cd9-e908fbbae8d3">
         <con:settings/>
         <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -6220,7 +5583,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>26010</con:value>
+              <con:value>27397</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -6332,40 +5695,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="d22f3e79-630d-4e57-80cd-0488a5a3356c">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="Email 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="9126824c-a178-4f72-a2be-5068d67e5744" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${#Project#ClientID}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${#Project#ClientSecret}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="8e65d45f-7f9f-4c59-9bd2-65c1d87c8315" name="Valid HTTP Status Codes">
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry/>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="2c12522f-afee-4dca-b167-166e60d84d3c">
         <con:settings/>
         <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -6772,7 +6102,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>26011</con:value>
+              <con:value>27398</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -6884,40 +6214,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="restrequest" name="Step_SendEmail" id="3fa6cc18-0126-4d89-9146-b013be5040b1">
-        <con:settings/>
-        <con:config service="SendEmail" resourcePath="/v1/locations/{siteId}/orders/{orderId}/email" methodName="Email 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_SendEmail" id="9126824c-a178-4f72-a2be-5068d67e5744" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${#Project#ClientID}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${#Project#ClientSecret}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/exp/api/email</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="490344ac-b1b5-4119-8780-e084e1f3ad97" name="Valid HTTP Status Codes">
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${Step_PickupPostOrder#Response#$['OrderId']}"/>
-              <con:entry key="siteId" value="${Properties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry/>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
       <con:testStep type="restrequest" name="Step_OrderStatus" id="2208aa54-f1fa-4ad9-ab09-041bb869f95e">
         <con:settings/>
         <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -7341,7 +6638,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>26012</con:value>
+              <con:value>27400</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -7937,11 +7234,11 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>25979</con:value>
+              <con:value>45966</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
-              <con:value>7</con:value>
+              <con:value>3</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -8001,7 +7298,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJXV2t6RWtGWGU3d3VsNjJHIiwidGFnIjoiQ2lyc0laenBEVVRSY0lQUFFyd1lYZyIsInppcCI6IkRFRiJ9.SaMx1GWdwIwRNvoS81a198jtxZvE0uoDUgXbI2jwgPqXaLdQFiDpg5QHlHvotENU14ZU5yvzKjE-gPCh7XBFSA.OufiEYiC2FMrKoBej-Rn_w.H3zLfoQKOpxTBbfsxcx5dUphAheXZeWuiP6inMgBs2MWKBfg0Cp1fbMgJ4ixWHbRPd7VQ1Clb9SNHryX6vB8DIAPLkMA_dF4hazaTIQs6xnXksQT4M3P0yqhgG4MYZInIUiFjjqfkNLMbzO3Yw2jwyIxwjPVD2XCyOi68xSOF2pJWuUqKZ-mssmloQB7xSYuHgedWFl1XBzoosvb7GiTGqWRs4JSO5lD6QjQ_okxBmHYXiLXZJffKpn8raYTq0qRg0D-l_Dfj_Ve5YOYKKqugIGzekQ5DQimeAGui9XBSjvyoR6TJCRdyc3VwjCCh2abxyoFhCZ-4lPOfzGc_HF-lopHUDYANdkiMTG_213HBOetpAJrdISJ0WP2ZiG_i4Y3PzDMlbsmXHX7IItVt3nBkSmpKJoSNhUqbqhUQzmeoRDbxXQ6kejZ4fTv5VJRu3Jt-C7cue8cPyCNxaQMzkr4jg.rZ_JV-j1gVQOVQnMUSmfr3FvCt0Yx_OqUFQqV6Jhk5Q</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJZVFhFSHNhZjBieHV3RlVYIiwidGFnIjoiS0d6WkViYlAxZ3JQYU9hZ1d5U2l1dyIsInppcCI6IkRFRiJ9.3_OEYvRgw9EUuRnCokkLGgmB7pJk8gB2n03qqcHLGj4aU24rN9v0ts0rY5ciJO4k6PLpoM3FMLIYhqmL__x8HQ.WJm-QJKEnTW8EPWY00Hk0g.feGtY3ClxscKQhtvH7ttOQqSJiOQvtJurOYNjGk8z20uDaXwuxp7pGSjMfJlUdw0IvbTPVW52wXXI8HjAPY1Rf-l7uItp5PJ2pL_yHWfiM0e7JmFUBzwCtc2lnHHMdzkbUOYacLjRbCgeYCIep3G0nh7N90SAja9goPu4XM-GZYlxGxGmXk1MAvCl2Nq9bSwZwowv9IpchyvIrdqILi0-3riKqgAq3ImRK-Oz_VqUbmztBpxgNRsPOtDVg9UPd_3ES8xuSHYN0lWARsUEHWCYenlITVwgad5euAMpMzPBl6Vh6hytW2ejhIqzdqwhMc88shHa7PpkTASrzUkDu27keFDqZmuJYwQsc9981vH-yA6tMkCmkpiSrNZIOXgZ8GRmybsMtt71oY82FwZAwp5UB6bXTStNc0XgCjkwTRfYKM3tWNJjgawOJbyPWkMmHxMFXNyHyvOX_V59IoQw88b1g.WBbkQo2xWW9tyOQhsVN0wpETEvenMZhZGPV7lGybQok</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -8111,11 +7408,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>19bef87c-247e-457d-b7f6-cb0172945dde</con:value>
+              <con:value>7497dace-2635-4b32-8268-f6666441c047</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>180b8948-ee59-45dd-b748-46335e329210</con:value>
+              <con:value>09e35bb1-514b-4e36-a4d0-13fcab07ffc2</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -8620,394 +7917,19 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="transfer" name="PutOrderPropertyTransfer" id="bde34a8c-f759-48fd-860f-88baf1e263ae">
-        <con:settings/>
-        <con:config xsi:type="con:PropertyTransfersStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>amount</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['TotalAmount']</con:sourcePath>
-            <con:targetType>amount</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:targetPath/>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>resttip</con:name>
-            <con:sourceType>resttip</con:sourceType>
-            <con:sourceStep>Properties</con:sourceStep>
-            <con:sourcePath/>
-            <con:targetType>resttip</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>XPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>orderid</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['OrderId']</con:sourcePath>
-            <con:targetType>orderid</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>siteid</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['SiteId']</con:sourcePath>
-            <con:targetType>siteid</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="groovy" name="GroovyScript-SumAmtNTips" id="f65d1c50-9001-4c7c-af38-4c526ed155a0">
-        <con:settings/>
-        <con:config>
-          <script>import java.util.*
-import groovy.util.xmlparser.*
-import groovy.util.*
-import com.eviware.soapui.*
-
-def a = context.expand( '${AmountProperties#amount}' ) 
-def b = context.expand( '${AmountProperties#resttip}' ) 
-log.info a
-log.info b
-
-def c= new BigDecimal(a) + new BigDecimal(b)
-log.info c
-testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount",c.toString())</script>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="properties" name="AmountProperties" id="0f7ae5bd-7d2e-4420-b4a5-1d2a1c600415">
-        <con:settings/>
-        <con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:properties>
-            <con:property>
-              <con:name>amount</con:name>
-              <con:value>15.73</con:value>
-            </con:property>
-            <con:property>
-              <con:name>resttip</con:name>
-              <con:value>1.75</con:value>
-            </con:property>
-            <con:property>
-              <con:name>totalamount</con:name>
-              <con:value>17.48</con:value>
-            </con:property>
-            <con:property>
-              <con:name>orderid</con:name>
-              <con:value>25980</con:value>
-            </con:property>
-            <con:property>
-              <con:name>siteid</con:name>
-              <con:value>7</con:value>
-            </con:property>
-          </con:properties>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="restrequest" name="Step_InitControl" id="6c0123e3-3a11-4fa7-9068-fd307f852d7f">
-        <con:settings/>
-        <con:config service="InitControl" resourcePath="/FP/v2/locations/{siteId}/payments/init" methodName="Init" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_InitControl" id="ca849302-2861-4176-b21c-4a86b1134c09" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-  &lt;con:entry key="origin" value="*"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request>{
-  "ButtonText": "Pay",
-  "PaymentType": "Card",
-  "OrderId": ${AmountProperties#orderid}
-}</con:request>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/experience/v1/locations/3/payments/init</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="60da683a-503f-4e80-a607-093c96c07445" name="Valid HTTP Status Codes">
-              <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <entry key="siteId" value="${AmountProperties#siteid}" xmlns="http://eviware.com/soapui/config"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="groovy" name="ExtractSessionKey" id="9ae0d323-9a28-4c02-96ff-82f264545714">
-        <con:settings/>
-        <con:config>
-          <script>def value = testRunner.testCase.testSteps["Step_InitControl"].testRequest.response.responseHeaders["X_HPC_SESSION_KEY"]
-//Read this value into a parameter
-def groovyUtils = new com.eviware.soapui.support.GroovyUtils(context)
-log.info groovyUtils
-groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="properties" name="PropSessionKey" id="b6e6cd22-5745-4128-833e-c646f69e6681">
-        <con:settings/>
-        <con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:properties>
-            <con:property>
-              <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJGWmw0amdYeGZHM09xZVpVIiwidGFnIjoidUNod0N2dFRCTVhyVjl1MnZCUEZRUSIsInppcCI6IkRFRiJ9.DdQMQvvDkRpwiPZ3xk6L8fg6GL0rkbumGonc8NkQG0S44rS_Ex27Gr3LmO7yv_RbsJ_3VFKRUGQc5X1wm3tBbg.eZBO8EI1rvKc82OK6kMOrg.LRpJJxA_OJgGNpOo-_Qxtv-N0X4GxUWFMDxuU2NSv9MN70YOBdvcOlUB2IMT6L-L4j8Up-cC8DZrGCrnlD-cu4cD2ykBz-a9qW8BGIG64ZZEAkgyuGiX4GVGfxLj1CDaZlzOro1jVPgLt65cqLU7gIawGIRBPbqGQ67qbAxgaWr9qPUYAH6oxTkEW06lxZDXdOmOrqAhWC68omD0yBkLHp3dPMdvBJQoOtLr_IjDhB1j98lc5Gm1DUyIwrG9aARWfPAvfOwQx5bqM8mZuNA9mjleSxH2wFDvC8EWvKhWyFu06dR1m1uh2eNawZIf_s7tqikgnV3hMkWAHdA1bz-QZyr4ygolf6GLnBTkomBkrYYWGIzqYmKyAKKURHq98utM4pIc4VbmihFzdItFyEEY-Z4SH_czRW_krkxltp1_Na-l0wWsqLXFSfdjON8FyLs3.fdcasPktLD_bZwDgvvL0D2zrjdlbKXiKm0QqY386ZB0</con:value>
-            </con:property>
-          </con:properties>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="restrequest" name="Step_GetiFrame" id="06e2ed4c-b95f-4f94-8bd5-fc75b5473baa">
-        <con:settings/>
-        <con:config service="GetiFrame" resourcePath="/api/v1.2/controls" methodName="Controls" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_GetiFrame" id="a04b6f24-0c84-447d-b560-cfc1c1ec56ba" mediaType="application/json">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
-            </con:settings>
-            <con:endpoint>https://hpc.uat.freedompay.com</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://hpc.uat.freedompay.com/api/v1.1/controls</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="21253465-ac50-40cc-96cb-3d8866fb6d7b" name="Valid HTTP Status Codes">
-              <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <entry key="sessionKey" value="${PropSessionKey#sessionkey}" xmlns="http://eviware.com/soapui/config"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>sessionKey</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="restrequest" name="Step_CCSubmitToGetKeys" id="3db51097-0998-46db-a9b5-da2bd39f5e59">
-        <con:settings/>
-        <con:config service="CCSubmissionToGetKeys" resourcePath="/api/v1.1/payments/key" methodName="Key" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_CCSubmitToGetKeys" id="ba89ae9e-c1a2-4e31-84d5-aa9248a4b29a" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;entry key="Authorization" value="Bearer ${PropSessionKey#sessionkey}" xmlns="http://eviware.com/soapui/config"/></con:setting>
-            </con:settings>
-            <con:endpoint>https://hpc.uat.freedompay.com</con:endpoint>
-            <con:request>{
-    "cardData": "X2NKrHPIFaygLq+ZgMLiiwWjcttMJQUZlcoc8/7SvWqseg29CO+fr4mvpqWc1laZPXOT9jvXED9iGrjqJnih33Fl5XGG+6daAh3fJiSa7lruVrTtboecVLRzJyvk3EwvP5uYwY/LpzeKznOHITFwUlbq4mcTT9MjXYBigQHaXFcJMnNpDtzJYr7uije6Vh6TjPgAEST+KIj8It/xA1SKdPY8jddbO6iM/hxzd6yWWVJX6m4+IwPNomHJJJBFamT7Pfq7fJXlZkeA+322V8VcSAnI/tdQAe11CD2YbbHNh6xbe8C18R/WWN3E+29zjpFfXThVe5AayWvjrQSSYstcuQ==",
-    "cardIssuer": 8,
-	"paymentType": 1,
-	"postalCode": "55435"
-}</con:request>
-            <con:originalUri>https://hpc.uat.freedompay.com/api/v1.1/payments/key</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="6f782773-dcea-4ede-a60a-e34a745a8727" name="Valid HTTP Status Codes">
-              <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters/>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="transfer" name="PayKeysTransfer" id="e94cf166-7ed2-49ea-aef8-60db8f97ff14">
-        <con:settings/>
-        <con:config xsi:type="con:PropertyTransfersStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>Key0</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_CCSubmitToGetKeys</con:sourceStep>
-            <con:sourcePath>$.PaymentKeys[0]</con:sourcePath>
-            <con:targetType>Key0</con:targetType>
-            <con:targetStep>PayKeys</con:targetStep>
-            <con:targetPath/>
-            <con:type>JSONPATH</con:type>
-            <con:targetTransferType>XPATH</con:targetTransferType>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>Key1</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_CCSubmitToGetKeys</con:sourceStep>
-            <con:sourcePath>$.PaymentKeys[1]</con:sourcePath>
-            <con:targetType>Key1</con:targetType>
-            <con:targetStep>PayKeys</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>CardIssuer</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_CCSubmitToGetKeys</con:sourceStep>
-            <con:sourcePath>$.Attributes.[0].['Value']</con:sourcePath>
-            <con:targetType>CardIssuer</con:targetType>
-            <con:targetStep>PayKeys</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="properties" name="PayKeys" id="c5cc82ac-418e-462f-96bb-c9973f1d18b5">
-        <con:settings/>
-        <con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:properties>
-            <con:property>
-              <con:name>Key0</con:name>
-              <con:value>309f51d8-bda8-40c9-9d67-ca13edd1ceaf</con:value>
-            </con:property>
-            <con:property>
-              <con:name>Key1</con:name>
-              <con:value>1c4ec2d9-8d7b-4f8f-9712-f4f39afb6135</con:value>
-            </con:property>
-            <con:property>
-              <con:name>CardIssuer</con:name>
-              <con:value>Visa</con:value>
-            </con:property>
-          </con:properties>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="restrequest" name="Step_PickupPostOrder" id="36150b8e-89a4-4a52-bd9c-8502838a24d9">
-        <con:settings/>
-        <con:config service="PickUpPostOrder" resourcePath="/AOO/v2/PickupOrders/{siteId}/{orderId}/{customerId}" methodName="PickupPostOrder" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_PickupPostOrder" id="5603d274-6826-4482-903f-8c46ccca572d" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  <con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  <con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-  <con:entry key="X_HPC_SESSION_KEY" value="${PropSessionKey#sessionkey}"/>
-  <con:entry key="origin" value="*"/>
-</xml-fragment>]]></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request>{
-   "PaymentKeys": 
-    [
-      "${PayKeys#Key0}",
-      "${PayKeys#Key1}"
-    ],
-   "RestaurantTip": ${Properties#resttip} , 
-   "RestaurantEmailId": "trob@buffalowildwings.com",  
-   "SendEmail": true,
-   "PromiseDateTime": "${Properties#ptime}",
-   "CardIssuer": "${PayKeys#CardIssuer}",
-   "ApplyStoredValue": true,
-   "UpdateTimeDisabled": true,
-   "LockOrderModification": true,
-   "FavoriteName": "qafav",
-   "AssignLoyalty": false,
-   "ASAPDeliveryTimeEnabled": true,
-   "Vehicle":    
-      {
-      "$id": "3",
-      "Make": "sample string 1",
-      "Model": "sample string 2",
-      "Color": "sample string 3"
-      }
-}</con:request>
-            <con:originalUri>https://bww-pickuporder-api-chtest.cloudhub.io/EXP/AOO/v1/PickupOrders/5/orderId/68bd02ae-a5fb-4e18-96b0-b2ae85c3802c</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="8fdec129-f810-44a7-9762-9db6fa859041" name="HTTPStatusCodesCheck">
-              <con:settings/>
-              <con:configuration>
-                <codes>403</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="72cbfcd1-1c49-4c68-9528-debead35d386" name="OrderStatus_FAILED_CheckMatch">
-              <con:configuration>
-                <path>$['OrderStatus']['Status']</path>
-                <content>FAILED</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${AmountProperties#orderid}"/>
-              <con:entry key="customerId" value="${Properties#customerid}"/>
-              <con:entry key="siteId" value="${AmountProperties#siteid}"/>
-              <con:entry key="forceATODeposit" value="false"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-              <con:entry>customerId</con:entry>
-              <con:entry>forceATODeposit</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
       
-      <con:testStep type="restrequest" name="Step_OrderStatus" id="ac6e4676-51a5-4d07-be13-0ffe1a0ce4c1">
-        <con:settings/>
-        <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_OrderStatus" id="33153867-6626-4c86-ab40-61ff8310603e" mediaType="application/json">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/EXP/AOO/v1/locations/3/orders/d98ff105-fc87-4b00-913c-d5bf7d01ee65</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="eb157f9f-fdb8-4ca0-bab5-b216679aa266" name="Valid HTTP_400_Status Codes">
-              <con:configuration>
-                <codes>400</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="085fe54f-1368-41c1-a023-44373d09248f" name="OrderStatus_FAILED_Check">
-              <con:configuration>
-                <path>$['OrderStatus']['Status']</path>
-                <content>FAILED</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="order_token" value="${Step_PickupPostOrder#Response#$['OrderUniqueId']}"/>
-              <con:entry key="siteId" value="${AmountProperties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>order_token</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       <con:properties/>
       <con:reportParameters/>
       <con:breakPoints>
@@ -9263,394 +8185,19 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           </con:restRequest>
         </con:config>
       </con:testStep>
-      <con:testStep type="transfer" name="PutOrderPropertyTransfer" id="395d9ba9-0101-4acf-be51-af2eb0281fb2">
-        <con:settings/>
-        <con:config xsi:type="con:PropertyTransfersStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>amount</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['TotalAmount']</con:sourcePath>
-            <con:targetType>amount</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:targetPath/>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>resttip</con:name>
-            <con:sourceType>resttip</con:sourceType>
-            <con:sourceStep>Properties</con:sourceStep>
-            <con:sourcePath/>
-            <con:targetType>resttip</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>XPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>orderid</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['OrderId']</con:sourcePath>
-            <con:targetType>orderid</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>siteid</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_PickupPutOrder</con:sourceStep>
-            <con:sourcePath>$['Order']['SiteId']</con:sourcePath>
-            <con:targetType>siteid</con:targetType>
-            <con:targetStep>AmountProperties</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="groovy" name="GroovyScript-SumAmtNTips" id="e7f5c6b8-3dc1-452b-ad10-dffcc906674b">
-        <con:settings/>
-        <con:config>
-          <script>import java.util.*
-import groovy.util.xmlparser.*
-import groovy.util.*
-import com.eviware.soapui.*
-
-def a = context.expand( '${AmountProperties#amount}' ) 
-def b = context.expand( '${AmountProperties#resttip}' ) 
-log.info a
-log.info b
-
-def c= new BigDecimal(a) + new BigDecimal(b)
-log.info c
-testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount",c.toString())</script>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="properties" name="AmountProperties" id="eaff4977-7e92-43bc-8294-132c38ec8ae1">
-        <con:settings/>
-        <con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:properties>
-            <con:property>
-              <con:name>amount</con:name>
-              <con:value>6.19</con:value>
-            </con:property>
-            <con:property>
-              <con:name>resttip</con:name>
-              <con:value>1.75</con:value>
-            </con:property>
-            <con:property>
-              <con:name>totalamount</con:name>
-              <con:value>7.94</con:value>
-            </con:property>
-            <con:property>
-              <con:name>orderid</con:name>
-              <con:value>25981</con:value>
-            </con:property>
-            <con:property>
-              <con:name>siteid</con:name>
-              <con:value>7</con:value>
-            </con:property>
-          </con:properties>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="restrequest" name="Step_InitControl" id="0064e93a-280d-442b-bc59-998b0b561155">
-        <con:settings/>
-        <con:config service="InitControl" resourcePath="/FP/v2/locations/{siteId}/payments/init" methodName="Init" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_InitControl" id="ca849302-2861-4176-b21c-4a86b1134c09" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-  &lt;con:entry key="origin" value="*"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request>{
-  "ButtonText": "Pay",
-  "PaymentType": "Card",
-  "OrderId": ${AmountProperties#orderid}
-}</con:request>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/experience/v1/locations/3/payments/init</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="60da683a-503f-4e80-a607-093c96c07445" name="Valid HTTP Status Codes">
-              <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <entry key="siteId" value="${AmountProperties#siteid}" xmlns="http://eviware.com/soapui/config"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="groovy" name="ExtractSessionKey" id="2d76e186-3b24-4ce9-a08c-61f791b1b53e">
-        <con:settings/>
-        <con:config>
-          <script>def value = testRunner.testCase.testSteps["Step_InitControl"].testRequest.response.responseHeaders["X_HPC_SESSION_KEY"]
-//Read this value into a parameter
-def groovyUtils = new com.eviware.soapui.support.GroovyUtils(context)
-log.info groovyUtils
-groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="properties" name="PropSessionKey" id="c790437f-be15-4ae9-b7b6-4ef79ad8319c">
-        <con:settings/>
-        <con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:properties>
-            <con:property>
-              <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiIzYXREQ0VTc1FaWC1zZHY3IiwidGFnIjoiMW94SlFoRldQdG10RXEzNW9raVNwQSIsInppcCI6IkRFRiJ9.G5Cx27SvDQhbD2Tdy5r13gzrewxIwHmOP1vrBnJKnKwf0JEKP0KRCBI6uyvFcPvHaUqCfeW_AEGmKaelmbGXTQ.pWRMzfqDG9zRS-RiAsn01Q.scIaSQos91vaxMlEHE4iWRQBBS_1zth2UoRG9Jl7hYA5b5M34cQzCMDqNn_jAz39364rTXTRRBIOGQzvP2ADzdkbzG5v4e5Pyy7lQdcBS-9Yi-sxTiR-2L0XB8GpP0cBuxj5VaDkH09PSJAL7bxKfmExn0VWpuKDDr4yjd4pkZ10Kq07ICWbfkju0fbDkw_g-dNaMDjlt3dNoOjJax7ECT78pfHOQXiLpogQPhaHjgH2oWi3C-gXNNvorrKC4PjeRkwuXzLxbumvkYHOZwBDM1Ppid_117oRqsspk7B87jiJzmMnUbYjcF_n-QhwAkXSP_JSFQbSVS0GiEU9DGw59M7Y9Sw1S12siVU5VbokcASyXGLu-vcNjFiFC-bDeRD-wgOEHvQjs-mkie5n9_sck6_1MwnCCxTlZ5zLTCTU_tgyyTIK4qTvXCxmiOM39hn_.CL9sq-5VmojY7mYMCxwvCncZfDoYNvapoXdIxHzIgRU</con:value>
-            </con:property>
-          </con:properties>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="restrequest" name="Step_GetiFrame" id="a07ab4ea-301b-4933-91a2-975ff0ce950d">
-        <con:settings/>
-        <con:config service="GetiFrame" resourcePath="/api/v1.2/controls" methodName="Controls" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_GetiFrame" id="a04b6f24-0c84-447d-b560-cfc1c1ec56ba" mediaType="application/json">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
-            </con:settings>
-            <con:endpoint>https://hpc.uat.freedompay.com</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://hpc.uat.freedompay.com/api/v1.1/controls</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="21253465-ac50-40cc-96cb-3d8866fb6d7b" name="Valid HTTP Status Codes">
-              <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <entry key="sessionKey" value="${PropSessionKey#sessionkey}" xmlns="http://eviware.com/soapui/config"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>sessionKey</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="restrequest" name="Step_CCSubmitToGetKeys" id="91487e33-70b9-4f52-a496-fd6ab40cd6d0">
-        <con:settings/>
-        <con:config service="CCSubmissionToGetKeys" resourcePath="/api/v1.1/payments/key" methodName="Key" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_CCSubmitToGetKeys" id="ba89ae9e-c1a2-4e31-84d5-aa9248a4b29a" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;entry key="Authorization" value="Bearer ${PropSessionKey#sessionkey}" xmlns="http://eviware.com/soapui/config"/></con:setting>
-            </con:settings>
-            <con:endpoint>https://hpc.uat.freedompay.com</con:endpoint>
-            <con:request>{
-    "cardData": "X2NKrHPIFaygLq+ZgMLiiwWjcttMJQUZlcoc8/7SvWqseg29CO+fr4mvpqWc1laZPXOT9jvXED9iGrjqJnih33Fl5XGG+6daAh3fJiSa7lruVrTtboecVLRzJyvk3EwvP5uYwY/LpzeKznOHITFwUlbq4mcTT9MjXYBigQHaXFcJMnNpDtzJYr7uije6Vh6TjPgAEST+KIj8It/xA1SKdPY8jddbO6iM/hxzd6yWWVJX6m4+IwPNomHJJJBFamT7Pfq7fJXlZkeA+322V8VcSAnI/tdQAe11CD2YbbHNh6xbe8C18R/WWN3E+29zjpFfXThVe5AayWvjrQSSYstcuQ==",
-    "cardIssuer": 8,
-	"paymentType": 1,
-	"postalCode": "55435"
-}</con:request>
-            <con:originalUri>https://hpc.uat.freedompay.com/api/v1.1/payments/key</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="6f782773-dcea-4ede-a60a-e34a745a8727" name="Valid HTTP Status Codes">
-              <con:settings/>
-              <con:configuration>
-                <codes>200</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters/>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="transfer" name="PayKeysTransfer" id="5a014da6-d67a-4396-aed1-a9f9b4b6b055">
-        <con:settings/>
-        <con:config xsi:type="con:PropertyTransfersStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>Key0</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_CCSubmitToGetKeys</con:sourceStep>
-            <con:sourcePath>$.PaymentKeys[0]</con:sourcePath>
-            <con:targetType>Key0</con:targetType>
-            <con:targetStep>PayKeys</con:targetStep>
-            <con:targetPath/>
-            <con:type>JSONPATH</con:type>
-            <con:targetTransferType>XPATH</con:targetTransferType>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>Key1</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_CCSubmitToGetKeys</con:sourceStep>
-            <con:sourcePath>$.PaymentKeys[1]</con:sourcePath>
-            <con:targetType>Key1</con:targetType>
-            <con:targetStep>PayKeys</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-          <con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false">
-            <con:name>CardIssuer</con:name>
-            <con:sourceType>Response</con:sourceType>
-            <con:sourceStep>Step_CCSubmitToGetKeys</con:sourceStep>
-            <con:sourcePath>$.Attributes.[0].['Value']</con:sourcePath>
-            <con:targetType>CardIssuer</con:targetType>
-            <con:targetStep>PayKeys</con:targetStep>
-            <con:type>JSONPATH</con:type>
-            <con:upgraded>true</con:upgraded>
-          </con:transfers>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="properties" name="PayKeys" id="4f07b48a-e756-4aa4-9f79-aa89d399dc1d">
-        <con:settings/>
-        <con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:properties>
-            <con:property>
-              <con:name>Key0</con:name>
-              <con:value>77e707cc-c312-4ff8-9b6f-b25cb483b42c</con:value>
-            </con:property>
-            <con:property>
-              <con:name>Key1</con:name>
-              <con:value>5d2be990-2448-493c-be63-7c0bb30c54fc</con:value>
-            </con:property>
-            <con:property>
-              <con:name>CardIssuer</con:name>
-              <con:value>Visa</con:value>
-            </con:property>
-          </con:properties>
-        </con:config>
-      </con:testStep>
-      <con:testStep type="restrequest" name="Step_PickupPostOrder" id="21146c9d-b96d-4fca-9d34-3b45c5e6d024">
-        <con:settings/>
-        <con:config service="PickUpPostOrder" resourcePath="/AOO/v2/PickupOrders/{siteId}/{orderId}/{customerId}" methodName="PickupPostOrder" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_PickupPostOrder" id="5603d274-6826-4482-903f-8c46ccca572d" mediaType="application/json" postQueryString="false">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  <con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  <con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-  <con:entry key="X_HPC_SESSION_KEY" value="${PropSessionKey#sessionkey}"/>
-  <con:entry key="origin" value="*"/>
-</xml-fragment>]]></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request>{
-   "PaymentKeys": 
-    [
-      "${PayKeys#Key0}",
-      "${PayKeys#Key1}"
-    ],
-   "RestaurantTip": ${Properties#resttip} , 
-   "RestaurantEmailId": "trob@buffalowildwings.com",  
-   "SendEmail": true,
-   "PromiseDateTime": "${Properties#ptime}",
-   "CardIssuer": "${PayKeys#CardIssuer}",
-   "ApplyStoredValue": true,
-   "UpdateTimeDisabled": true,
-   "LockOrderModification": true,
-   "FavoriteName": "qafav",
-   "AssignLoyalty": false,
-   "ASAPDeliveryTimeEnabled": true,
-   "Vehicle":    
-      {
-      "$id": "3",
-      "Make": "sample string 1",
-      "Model": "sample string 2",
-      "Color": "sample string 3"
-      }
-}</con:request>
-            <con:originalUri>https://bww-pickuporder-api-chtest.cloudhub.io/EXP/AOO/v1/PickupOrders/5/orderId/68bd02ae-a5fb-4e18-96b0-b2ae85c3802c</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="8fdec129-f810-44a7-9762-9db6fa859041" name="HTTPStatus_403_CodesCheck">
-              <con:settings/>
-              <con:configuration>
-                <codes>403</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="72cbfcd1-1c49-4c68-9528-debead35d386" name="OrderStatus_FAILED_CheckMatch">
-              <con:configuration>
-                <path>$['OrderStatus']['Status']</path>
-                <content>FAILED</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="orderId" value="${AmountProperties#orderid}"/>
-              <con:entry key="customerId" value="${Properties#customerid}"/>
-              <con:entry key="siteId" value="${AmountProperties#siteid}"/>
-              <con:entry key="forceATODeposit" value="false"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>orderId</con:entry>
-              <con:entry>customerId</con:entry>
-              <con:entry>forceATODeposit</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
       
-      <con:testStep type="restrequest" name="Step_OrderStatus" id="b61984bd-424c-4317-a79e-57b874795c08">
-        <con:settings/>
-        <con:config service="OrderSatus" resourcePath="/AOO/v2/locations/{siteId}/orders/{order_token}" methodName="Order_token 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-          <con:restRequest name="Step_OrderStatus" id="33153867-6626-4c86-ab40-61ff8310603e" mediaType="application/json">
-            <con:settings>
-              <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment xmlns:con="http://eviware.com/soapui/config">
-  &lt;con:entry key="X_CLIENT_ID" value="${Properties#cid}"/>
-  &lt;con:entry key="X_CLIENT_SECRET" value="${Properties#cs}"/>
-&lt;/xml-fragment></con:setting>
-            </con:settings>
-            <con:endpoint>${#TestSuite#EndPoint}</con:endpoint>
-            <con:request/>
-            <con:originalUri>https://inspire-ordering-api-chtest.us-e1.cloudhub.io/EXP/AOO/v1/locations/3/orders/d98ff105-fc87-4b00-913c-d5bf7d01ee65</con:originalUri>
-            <con:assertion type="Valid HTTP Status Codes" id="eb157f9f-fdb8-4ca0-bab5-b216679aa266" name="Valid HTTP_400_Status Codes">
-              <con:configuration>
-                <codes>400</codes>
-              </con:configuration>
-            </con:assertion>
-            <con:assertion type="JsonPath Match" id="085fe54f-1368-41c1-a023-44373d09248f" name="OrderStatus_FAILED_Check">
-              <con:configuration>
-                <path>$['OrderStatus']['Status']</path>
-                <content>FAILED</content>
-                <allowWildcards>false</allowWildcards>
-                <ignoreNamspaceDifferences>false</ignoreNamspaceDifferences>
-                <ignoreComments>false</ignoreComments>
-              </con:configuration>
-            </con:assertion>
-            <con:credentials>
-              <con:authType>No Authorization</con:authType>
-            </con:credentials>
-            <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
-            <con:jmsPropertyConfig/>
-            <con:parameters>
-              <con:entry key="order_token" value="${Step_PickupPostOrder#Response#$['OrderUniqueId']}"/>
-              <con:entry key="siteId" value="${AmountProperties#siteid}"/>
-            </con:parameters>
-            <con:parameterOrder>
-              <con:entry>siteId</con:entry>
-              <con:entry>order_token</con:entry>
-            </con:parameterOrder>
-          </con:restRequest>
-        </con:config>
-      </con:testStep>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       <con:properties/>
       <con:reportParameters/>
       <con:breakPoints>
@@ -20793,7 +19340,7 @@ testRunner.testCase.testSteps["AmountProperties"].setPropertyValue("totalamount"
             </con:property>
             <con:property>
               <con:name>orderid</con:name>
-              <con:value>25998</con:value>
+              <con:value>27399</con:value>
             </con:property>
             <con:property>
               <con:name>siteid</con:name>
@@ -20857,7 +19404,7 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>sessionkey</con:name>
-              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJrWjlqQWhIQkx4V1laUVhTIiwidGFnIjoiUGxySzNsY1gwbGlmZnVoQnNUajRxQSIsInppcCI6IkRFRiJ9.A7B9r-_cT2T0JlZCWlz66MfvLFutZ1tmWn-Qz5mu-NJpc8b4Vs6ShsplsUKiPHJhXf_xnby42Oau7HoNiwJg_w.r5EJCFDbT_egbANYQf4XBw.XEgRdQ3xK3LmvtKBTQXiwHjq-Dx-9CFgjRlfC_H0Zti2jLNHkBw-EdAV79MB8cYIvmu_CBUHrUOD_7fawgj-Kdli5b5g_3NO6ONvsmzTXDdY69IjthJicyGdWtiupqLhC7kkBA604haJ_N8TYWEiEnMbXQHVZ06oKRXVxTJ39RL6Jlolo-gJXdggPzcnWYFt4EKkWqqxjZxQyNH6aEhThWJh-3Jw_GyW1rktYJctLqKCybuqpknfmptKptpFyqISWCFXmqqh0pvjN_dPOXCJSKK1lbM2GIMnlU2etW_Ncu0EV6zhY5_GIs_DHI4nm4H47nze5kgWX4k4rKMy-ZW1Bsm6A8yN9MLqikCTikxpNNkZrcvLRH4hG0x7sPJbdS6HWokc670oQNK7HgEDlRRWXVU5te2ox2YpHCUnMlJjKCYxtFKYsk3htj9_Mj7RcNoV.gtg5_Yxs7sdfa9bLN0DvHcAWdGrDLVQua1yXrM16kdo</con:value>
+              <con:value>eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiaXYiOiJVeTlRRDVHeURZaTRvb0hqIiwidGFnIjoibC1SU0IzOFU2aTJneHFJbXhMSnBaZyIsInppcCI6IkRFRiJ9.mzMY3FMtzEzn9WjmVLiPTLFRI0e7t7fWN4G3rPeWWlJZQ49tst6HC5CZTNO1--RGdJBHlnD9pSjN6pn0V5mlcw.NMU3_vVyAmKYTcAn_16-7A.CNeJl-hx-Bbkw29g2Kn7fNRqrkindu1OrXREtFrpX6jgCg7SWjTPEYwyFCZkDFqP6E3Jw3I_DAEpJyC5WoqubUnlT4uumPGVodY4abwiL4GDouaJod7OM667p1Idzz5apf-Qzj6BbH_JMEGhfoxdsBW4jmVEknibJR4qtMUlatPLkCfoNd6uQMoeVHGLDx336RMMtrR6iFwqvxLbKCPoRSdMLO_1KcEljSlvABZYW2cEzMjcjHyaIa3AiSkRURaVIMT9YAzCvaVdjwgEqlf2mjDasg_KzQuRm9LBQYIlERYyXr5wIxr1V06xZH8aHe5E8vo7qYlhCyQXzpL65hvJykT7uH4uJZpV8s5VY7nDkwNW0pvPmMVYjZJWZICkCXTxcJZtbCN5VQuSjKo4qv39y7NSaMaTnqOywZuGKIHvYZwgwZDKM2gHSQEPbjVpC0NqpuLVEpYvjIawknlIBQzk1Q.sUmUbww5bRW6d_M0ZwgRHcFyzGwQl_3iu9-3lP9DVy4</con:value>
             </con:property>
           </con:properties>
         </con:config>
@@ -20967,11 +19514,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
           <con:properties>
             <con:property>
               <con:name>Key0</con:name>
-              <con:value>cb5ed2ff-f7b4-4a28-a3ca-874a618268fa</con:value>
+              <con:value>48001e61-b91f-4d37-b042-394a67c718b1</con:value>
             </con:property>
             <con:property>
               <con:name>Key1</con:name>
-              <con:value>343f3849-27e5-4c8f-9830-608ede3b8de3</con:value>
+              <con:value>7a8a7134-3218-4c76-8a2d-bb07fad0a3f6</con:value>
             </con:property>
             <con:property>
               <con:name>CardIssuer</con:name>
@@ -21383,11 +19930,11 @@ groovyUtils.setPropertyValue("PropSessionKey", "sessionkey", value[0])</script>
     </con:property>
     <con:property>
       <con:name>siteid</con:name>
-      <con:value>7</con:value>
+      <con:value>3</con:value>
     </con:property>
     <con:property>
       <con:name>ptime</con:name>
-      <con:value>2019-03-29T14:30:00</con:value>
+      <con:value>2019-04-15T14:30:00</con:value>
     </con:property>
     <con:property>
       <con:name>mockendpoint</con:name>
